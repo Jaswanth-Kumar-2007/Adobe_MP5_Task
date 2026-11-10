@@ -69,12 +69,8 @@ Adobe/
 │       │   ├── extraction_review.csv
 │       │   ├── program_plan_review.csv
 │       │   ├── ug_manual_review.csv
-│       │   ├── source_evidence.csv
-│       │   └── .gitkeep
 │       ├── relationships/
 │       │   └── course_relationships.json
-│       └── chunks/
-│           └── .gitkeep
 │
 ├── extractors/
 │   ├── common/

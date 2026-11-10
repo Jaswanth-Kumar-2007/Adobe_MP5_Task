@@ -1,6 +1,59 @@
 # Pipeline documentation
 
-## Execution order
+## One command: raw files to final outputs
+
+The assignment describes five conceptual stages: ingest, parse and normalise, validate, chunk, and export. This repository performs document extraction before those stages and adds relationship generation and reporting as implementation steps.
+
+### 1. Ingest
+
+- Original PDFs remain in `data/raw/`.
+- `run_extraction.py` reads those source documents without treating `data/manual/` as pipeline input.
+- Enabled extractors write primary CSVs and review/evidence files under `data/extracted/`.
+
+### 2. Parse and normalise
+
+- Extractors standardize course codes while parsing source text and tables.
+- `pipeline/normalize.py` strips surrounding whitespace and collapses repeated whitespace across available fields.
+- Course records are grouped by uppercased code; only an unambiguously lower-quality duplicate is removed.
+- The normalizer writes entities to `data/processed/normalized/` and merges compatible evidence into `source_evidence.csv`.
+- Semester labels, titles, credits, and other source fields are retained and cleaned, but missing values are not synthesized.
+
+### 3. Validate
+
+The current checks are classified as follows:
+
+| Assignment expectation | Current implementation |
+|---|---|
+| Missing prerequisite references | **Implemented as warnings** when a prerequisite is outside the collected course set. |
+| Prerequisite cycles | **Not implemented**; no prerequisite graph cycle search exists. |
+| Non-numeric credits | **Implemented** as an error for invalid or out-of-range values. |
+| Duplicate course codes | **Implemented** as an error after normalization. |
+| Missing source URLs | **Implemented as warnings** when a field exists but is empty; filename values are not verified web URLs. |
+
+The validator also checks required schemas and values, course-skill and topic references, programme-plan codes/slots, source types, and resource verification status when `resources.csv` exists. Errors are counted separately from warnings, and validation errors do not immediately stop later relationship, chunk, export, and report steps.
+
+### 4. Chunk
+
+- Chunking is record-based, not token-window or semantic text splitting.
+- Configured course, rule, skill, course-topic, resource, eligibility, and programme-plan records can become chunks when populated.
+- Each chunk has a `chunk_id`, `entity_type`, normalized text, and metadata such as parent record identifiers, source file, and source URL.
+- The generated chunks are exported to `output/chunks.jsonl`; `data/processed/chunks/` is created but does not receive the chunk records.
+
+### 5. Export
+
+| Output | Location | Purpose |
+|---|---|---|
+| Normalized entity CSVs | `data/processed/normalized/` | Cleaned intermediate records for later stages. |
+| Relationship JSON | `data/processed/relationships/course_relationships.json` | Course-linked prerequisites, skills, topics, programme-plan, and eligibility records. |
+| Knowledge base JSON | `output/knowledge_base.json` | Nested entities, relationships, metadata, and statistics. |
+| Knowledge base JSONL | `output/knowledge_base.jsonl` | One JSON record per entity row. |
+| Chunk JSONL | `output/chunks.jsonl` | Record-based chunks with retrieval-ready metadata. |
+| Data-quality report | `reports/data_quality_report.md` | Counts, validation totals, limitations, and output paths. |
+| Validation issues | `reports/validation_issues.csv` | Individual validation errors and warnings. |
+
+These files are prepared for possible future retrieval and embedding work. Embeddings are not generated.
+
+### Pipeline command
 
 The normal entrypoint is:
 
@@ -8,7 +61,7 @@ The normal entrypoint is:
 python run_pipeline.py
 ```
 
-The actual order is:
+After the command runs, the actual order is:
 
 1. Document extraction through `run_extraction.py`.
 2. Normalization through `pipeline/normalize.py`.
@@ -17,8 +70,6 @@ The actual order is:
 5. Chunk generation through `pipeline/chunking.py`.
 6. JSON/JSONL export through `pipeline/export.py`.
 7. Data-quality reporting through `pipeline/reports.py`.
-
-The assignment's five conceptual stages are ingest, parse/normalize, validate, chunk, and export. This repository places document extraction before those stages and adds relationships and reporting as implementation steps.
 
 ## Extraction stage
 
@@ -140,7 +191,7 @@ The data-quality report measures entity row/column counts, merged evidence count
 
 `run_extraction.py` writes `reports/extraction.log`. `run_pipeline.py` writes `reports/pipeline.log`. These logs show execution order, extractor status, output locations, and validation totals.
 
-The reports do not calculate field-completeness percentages, prove semantic correctness, or provide the assignment's missing consolidated `SOURCES.md` and `IDEAS.md` deliverables.
+The reports do not calculate field-completeness percentages or prove semantic correctness. Source provenance and future-use ideas are documented separately in [`SOURCES.md`](../SOURCES.md) and [`IDEAS.md`](../IDEAS.md).
 
 ## Standalone validator
 
