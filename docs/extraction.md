@@ -95,7 +95,7 @@ Therefore the assignment requirement is:
 
 ## Evidence and review workflow
 
-Extractors preserve evidence where implemented: record identifiers, PDF page numbers, section headings, quotations, source metadata, and retrieval dates. The orchestrator publishes evidence and review files under `data/extracted/review/`. Normalization later discovers evidence files recursively, merges compatible evidence into `data/processed/normalized/source_evidence.csv`, and copies selected review files.
+Extractors preserve evidence where implemented: record identifiers, PDF page numbers, section headings, quotations, source metadata, and retrieval dates. The orchestrator publishes evidence and review files under `data/extracted/review/`. Normalization later discovers both classes recursively, merges compatible evidence into `data/processed/normalized/source_evidence.csv`, and copies review files while preserving their nested paths.
 
 Review files contain uncertain or candidate records. A teammate should compare the candidate row, PDF page, quotation, and original source before treating it as authoritative. A successful extractor or a pipeline run with zero validation errors only establishes structural success; it does not establish semantic correctness.
 

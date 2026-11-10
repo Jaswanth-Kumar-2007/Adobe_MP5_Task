@@ -79,7 +79,7 @@
       },
       {
         "code": "DSP301",
-        "title": "Al and Machine Learning Lab",
+        "title": "AI and Machine Learning Lab",
         "dept": "DSAI",
         "credits": "1.5",
         "lecture": "0",
@@ -89,7 +89,7 @@
         "course_type": "",
         "mode": "",
         "objectives": "",
-        "syllabus": "Design and implementation of Al and machine learning models for image processing; Design and implementation of Al and machine learning models for speech processing; Design and implementation of Al and machine learning models for NLP; Design and implementation of Al and machine learning models for Game playing; Deploy machine learning models on mobile; Developing applications with Al/ML development board/kits.",
+        "syllabus": "Design and implementation of AI and machine learning models for image processing; Design and implementation of AI and machine learning models for speech processing; Design and implementation of AI and machine learning models for NLP; Design and implementation of AI and machine learning models for Game playing; Deploy machine learning models on mobile; Developing applications with AI/ML development board/kits.",
         "prereq_text": "None",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
@@ -2489,7 +2489,7 @@
       },
       {
         "course_code": "DSP301",
-        "topic": "Design and implementation of Al and machine learning models for image processing",
+        "topic": "Design and implementation of AI and machine learning models for image processing",
         "unit": "Topic 1",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
@@ -2497,7 +2497,7 @@
       },
       {
         "course_code": "DSP301",
-        "topic": "Design and implementation of Al and machine learning models for speech processing",
+        "topic": "Design and implementation of AI and machine learning models for speech processing",
         "unit": "Topic 2",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
@@ -2505,7 +2505,7 @@
       },
       {
         "course_code": "DSP301",
-        "topic": "Design and implementation of Al and machine learning models for NLP",
+        "topic": "Design and implementation of AI and machine learning models for NLP",
         "unit": "Topic 3",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
@@ -2513,7 +2513,7 @@
       },
       {
         "course_code": "DSP301",
-        "topic": "Design and implementation of Al and machine learning models for Game playing",
+        "topic": "Design and implementation of AI and machine learning models for Game playing",
         "unit": "Topic 4",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
@@ -2529,7 +2529,7 @@
       },
       {
         "course_code": "DSP301",
-        "topic": "Developing applications with Al/ML development board/kits.",
+        "topic": "Developing applications with AI/ML development board/kits.",
         "unit": "Topic 6",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
@@ -7763,10 +7763,10 @@
       {
         "record_id": "DSP301_course",
         "record_type": "course",
-        "extracted_information": "Al and Machine Learning Lab",
+        "extracted_information": "AI and Machine Learning Lab",
         "pdf_page": "97",
         "source_heading_or_section": "Course header",
-        "exact_supporting_quotation": "DSP301 Al and Machine Learning Lab",
+        "exact_supporting_quotation": "DSP301 AI and Machine Learning Lab",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
         "source_type": "official_pdf"
@@ -7774,10 +7774,10 @@
       {
         "record_id": "DSP301_syllabus",
         "record_type": "syllabus",
-        "extracted_information": "Design and implementation of Al and machine learning models for image processing; Design and implementation of Al and machine learning models for speech processing; Design and implementation of Al and machine learning models for NLP; Design and implementation of Al and machine learning models for Game playing; Deploy machine learning models on mobile; Developing applications with Al/ML development board/kits.",
+        "extracted_information": "Design and implementation of AI and machine learning models for image processing; Design and implementation of AI and machine learning models for speech processing; Design and implementation of AI and machine learning models for NLP; Design and implementation of AI and machine learning models for Game playing; Deploy machine learning models on mobile; Developing applications with AI/ML development board/kits.",
         "pdf_page": "97",
         "source_heading_or_section": "Course description",
-        "exact_supporting_quotation": "Design and implementation of Al and machine learning models for image processing; Design and implementation of Al and machine learning models for speech processing; Design and implementation of Al and machine learning models for NLP; Design and implementation of Al and machine learning models for Game playing; Deploy machine learning models on mobile; Developing applications with Al/ML development board/kits.",
+        "exact_supporting_quotation": "Design and implementation of AI and machine learning models for image processing; Design and implementation of AI and machine learning models for speech processing; Design and implementation of AI and machine learning models for NLP; Design and implementation of AI and machine learning models for Game playing; Deploy machine learning models on mobile; Developing applications with AI/ML development board/kits.",
         "source_url": "Course_of_Study.pdf",
         "retrieved_on": "2026-11-10",
         "source_type": "official_pdf"
@@ -11175,7 +11175,7 @@
         "topics": [
           {
             "course_code": "DSP301",
-            "topic": "Design and implementation of Al and machine learning models for image processing",
+            "topic": "Design and implementation of AI and machine learning models for image processing",
             "unit": "Topic 1",
             "source_url": "Course_of_Study.pdf",
             "retrieved_on": "2026-11-10",
@@ -11183,7 +11183,7 @@
           },
           {
             "course_code": "DSP301",
-            "topic": "Design and implementation of Al and machine learning models for speech processing",
+            "topic": "Design and implementation of AI and machine learning models for speech processing",
             "unit": "Topic 2",
             "source_url": "Course_of_Study.pdf",
             "retrieved_on": "2026-11-10",
@@ -11191,7 +11191,7 @@
           },
           {
             "course_code": "DSP301",
-            "topic": "Design and implementation of Al and machine learning models for NLP",
+            "topic": "Design and implementation of AI and machine learning models for NLP",
             "unit": "Topic 3",
             "source_url": "Course_of_Study.pdf",
             "retrieved_on": "2026-11-10",
@@ -11199,7 +11199,7 @@
           },
           {
             "course_code": "DSP301",
-            "topic": "Design and implementation of Al and machine learning models for Game playing",
+            "topic": "Design and implementation of AI and machine learning models for Game playing",
             "unit": "Topic 4",
             "source_url": "Course_of_Study.pdf",
             "retrieved_on": "2026-11-10",
@@ -11215,7 +11215,7 @@
           },
           {
             "course_code": "DSP301",
-            "topic": "Developing applications with Al/ML development board/kits.",
+            "topic": "Developing applications with AI/ML development board/kits.",
             "unit": "Topic 6",
             "source_url": "Course_of_Study.pdf",
             "retrieved_on": "2026-11-10",

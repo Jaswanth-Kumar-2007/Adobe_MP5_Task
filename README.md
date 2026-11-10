@@ -151,7 +151,7 @@ Latest checked-in pipeline report metrics:
 | Chunking | **PARTIAL** | 669 record-based chunks are generated; the implementation does not split text into token or semantic windows. |
 | Export | **PASS** | JSON, JSONL, and chunk JSONL outputs are generated under `output/`. |
 | No embeddings/LLM API calls | **PASS** | The normal Python pipeline stops before embedding. |
-| Data-quality report | **PARTIAL** | Counts and six warnings are reported; field-completeness percentages are not calculated. |
+| Data-quality report | **PARTIAL** | Counts, nested review/evidence files, field-completeness percentages, and six warnings are reported; semantic verification remains manual. |
 | `SOURCES.md` | **PASS** | Source and extraction-output documentation is present. |
 | `IDEAS.md` | **PASS** | Future Knowledge Buddy use cases and boundaries are documented. |
 

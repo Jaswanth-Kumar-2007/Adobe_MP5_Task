@@ -162,6 +162,19 @@ def clean_text(value: str | None) -> str:
     ).strip()
 
 
+def correct_source_ocr(code: str, value: str) -> str:
+    """Correct a verified OCR artifact in the DSP301 source text."""
+
+    if code != "DSP301":
+        return value
+
+    return re.sub(
+        r"\bAl\b",
+        "AI",
+        value,
+    )
+
+
 def normalize_course_code(code: str) -> str:
     """Normalize a course code."""
 
@@ -311,8 +324,9 @@ def split_course_blocks(pages):
                 match.group(1)
             )
 
-            title = clean_text(
-                match.group(2)
+            title = correct_source_ocr(
+                code,
+                clean_text(match.group(2)),
             )
 
             current_block = {
@@ -808,7 +822,10 @@ def extract_course_record(
 
     code = block["code"]
 
-    title = block["title"]
+    title = correct_source_ocr(
+        code,
+        block["title"],
+    )
 
     credits = extract_credits(block)
 
@@ -820,8 +837,9 @@ def extract_course_record(
         block
     )
 
-    syllabus = extract_syllabus(
-        block
+    syllabus = correct_source_ocr(
+        code,
+        extract_syllabus(block),
     )
 
     department = department_from_code(

@@ -28,6 +28,77 @@ REVIEW_FILES = [
     "ug_manual_review.csv",
 ]
 
+COMPLETENESS_FIELDS = {
+    "courses.csv": [
+        "code",
+        "title",
+        "credits",
+        "semesters",
+        "course_type",
+        "mode",
+        "objectives",
+        "syllabus",
+        "prereq_text",
+        "source_url",
+    ],
+    "rules.csv": [
+        "id",
+        "category",
+        "text",
+        "source_url",
+        "source_type",
+    ],
+    "program_plan.csv": [
+        "semester",
+        "course_code",
+        "slot",
+        "source_url",
+    ],
+    "course_eligibility.csv": [
+        "course_code",
+        "programme",
+        "eligibility_status",
+        "conditions",
+        "source_url",
+    ],
+    "course_topics.csv": [
+        "course_code",
+        "topic",
+        "unit",
+        "source_url",
+    ],
+    "skills.csv": [
+        "id",
+        "name",
+        "category",
+        "level",
+        "parent",
+        "source_url",
+    ],
+    "prerequisites.csv": [
+        "course",
+        "requires",
+        "kind",
+        "group",
+        "source_url",
+    ],
+    "course_skills.csv": [
+        "course",
+        "skill",
+        "depth",
+        "source_url",
+    ],
+    "resources.csv": [
+        "resource_id",
+        "title",
+        "provider",
+        "url",
+        "license_name",
+        "duration_value",
+        "topics",
+    ],
+}
+
 EVIDENCE_COLUMNS = [
     "record_id",
     "record_type",
@@ -108,6 +179,44 @@ def write_csv(file_path: Path, headers: list, records: list):
 
         writer.writeheader()
         writer.writerows(records)
+
+
+def calculate_completeness(
+        filename: str,
+        headers: list,
+        records: list,
+) -> list[dict]:
+        """Calculate populated-field counts for fields present in an entity CSV."""
+
+        fields = [
+            field
+            for field in COMPLETENESS_FIELDS.get(filename, [])
+            if field in headers
+        ]
+
+        result = []
+        total = len(records)
+
+        for field in fields:
+            populated = sum(
+                bool(record.get(field, "").strip())
+                for record in records
+            )
+            missing = total - populated
+            percentage = (
+                (populated / total) * 100
+                if total
+                else 0
+            )
+            result.append({
+                "field": field,
+                "total": total,
+                "populated": populated,
+                "missing": missing,
+                "percentage": percentage,
+            })
+
+        return result
 
 
 def normalize_value(value: str) -> str:
@@ -289,21 +398,43 @@ def merge_evidence(extracted_dir: Path, normalized_dir: Path):
     }
 
 
+def discover_review_files(extracted_dir: Path) -> tuple[list[dict], list[dict]]:
+    """Discover nested review and evidence CSVs under the review directory."""
+
+    review_root = extracted_dir / "review"
+    review_files = []
+    evidence_files = []
+
+    if not review_root.is_dir():
+        return review_files, evidence_files
+
+    for file_path in sorted(review_root.rglob("*.csv")):
+        headers, records = read_csv(file_path)
+        item = {
+            "file": str(file_path.relative_to(extracted_dir)),
+            "records": len(records),
+            "columns": len(headers),
+        }
+
+        if "evidence" in file_path.stem.casefold():
+            evidence_files.append(item)
+        else:
+            review_files.append(item)
+
+    return review_files, evidence_files
+
+
 def copy_review_files(extracted_dir: Path, normalized_dir: Path):
     """Copy extractor review files for quality reporting."""
 
     copied = []
 
-    for filename in REVIEW_FILES:
+    review_files, _ = discover_review_files(extracted_dir)
 
-        source_path = extracted_dir / filename
-
-        if not source_path.exists():
-            continue
-
+    for item in review_files:
+        source_path = extracted_dir / item["file"]
+        destination = normalized_dir / item["file"]
         headers, records = read_csv(source_path)
-
-        destination = normalized_dir / filename
 
         write_csv(
             destination,
@@ -312,7 +443,7 @@ def copy_review_files(extracted_dir: Path, normalized_dir: Path):
         )
 
         copied.append({
-            "file": filename,
+            "file": item["file"],
             "records": len(records),
         })
 
@@ -348,6 +479,8 @@ def normalize_all(
         "entities": {},
         "evidence_records": 0,
         "review_files": [],
+        "evidence_files_detail": [],
+        "completeness": {},
     }
 
     for filename in ENTITY_FILES:
@@ -364,7 +497,13 @@ def normalize_all(
         else:
             result = normalize_csv(source_path, output_path)
 
+        normalized_headers, normalized_records = read_csv(output_path)
         summary["entities"][filename] = result
+        summary["completeness"][filename] = calculate_completeness(
+            filename,
+            normalized_headers,
+            normalized_records,
+        )
 
     if not (normalized_dir / "courses.csv").exists():
         raise FileNotFoundError(
@@ -389,6 +528,9 @@ def normalize_all(
     summary["review_files"] = copy_review_files(
         extracted_dir,
         normalized_dir
+    )
+    _, summary["evidence_files_detail"] = discover_review_files(
+        extracted_dir
     )
 
     return summary

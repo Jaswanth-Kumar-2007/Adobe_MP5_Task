@@ -91,7 +91,7 @@ data/processed/normalized/
 
 Courses receive additional handling. Records are grouped by uppercased course code. When duplicate candidates exist, the code ranks field completeness and malformed titles. It removes duplicates only when one candidate is unambiguously better; it does not merge fields from multiple candidates.
 
-Evidence CSVs are found both at expected paths and recursively under `data/extracted/`. Compatible records are deduplicated and written to `data/processed/normalized/source_evidence.csv`. Selected review files are copied when they are directly under `data/extracted/`.
+Evidence CSVs are found both at expected paths and recursively under `data/extracted/`. Compatible records are deduplicated and written to `data/processed/normalized/source_evidence.csv`. Review CSVs are discovered recursively under `data/extracted/review/`, copied with their nested paths, and included in the data-quality report with record counts.
 
 ## Stage 2: Validate
 
@@ -191,7 +191,7 @@ The data-quality report measures entity row/column counts, merged evidence count
 
 `run_extraction.py` writes `reports/extraction.log`. `run_pipeline.py` writes `reports/pipeline.log`. These logs show execution order, extractor status, output locations, and validation totals.
 
-The reports do not calculate field-completeness percentages or prove semantic correctness. Source provenance and future-use ideas are documented separately in [`SOURCES.md`](../SOURCES.md) and [`IDEAS.md`](../IDEAS.md).
+The reports calculate populated-field percentages for applicable entity columns, but these percentages do not prove semantic correctness. Source provenance and future-use ideas are documented separately in [`SOURCES.md`](../SOURCES.md) and [`IDEAS.md`](../IDEAS.md).
 
 ## Standalone validator
 

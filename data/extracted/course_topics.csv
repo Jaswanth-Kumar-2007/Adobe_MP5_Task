@@ -33,12 +33,12 @@ DSL253,distributions,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
 DSL253,"Sampling and Descriptive Statistics, Statistical measures",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
 DSL253,Estimation and Hypothesis Testing,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
 DSL253,"Resampling Techniques, and Bootstrapping.",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
-DSP301,Design and implementation of Al and machine learning models for image processing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
-DSP301,Design and implementation of Al and machine learning models for speech processing,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
-DSP301,Design and implementation of Al and machine learning models for NLP,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
-DSP301,Design and implementation of Al and machine learning models for Game playing,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of AI and machine learning models for image processing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of AI and machine learning models for speech processing,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of AI and machine learning models for NLP,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of AI and machine learning models for Game playing,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
 DSP301,Deploy machine learning models on mobile,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
-DSP301,Developing applications with Al/ML development board/kits.,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Developing applications with AI/ML development board/kits.,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
 DSL351,"Introduction - Course Introduction, Motivation",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
 DSL351,NOSQL Databases - Different kinds of NOSQL databases and their use cases,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
 DSL351,"Design of distributed program models and abstractions,- MapReduce, Dataflow and Vertex-centric models, for processing volume, velocity, and linked datasets, and for storing and querying over NoSQL datasets Translation of existing architectures to big data- Approaches and design patterns to translate existing data-intensive algorithms and analytics into these distributed programming abstractions. Distributed software architectures- Distributed software architectures, runtime and storage strategies used by Big Data platforms, such as Apache Hadoop, Spark, Storm, Giraph, and Hive to execute applications developed",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf

@@ -1,0 +1,68 @@
+semester,slot,source_page,source_text,review_reason
+,,2,"Contents
+Terms Used 4
+Scope 6
+1. INTRODUCTION 6
+1.1 Background 6
+1.2 Disciplines 6
+1.3 Programs Offered 7
+2. COURSE STRUCTURE AND CREDIT SYSTEM 9
+2.1 Description of Course Content 9
+2.1.1 Category of courses 9
+2.1.2 Course numbering scheme 9
+2.1.3 Assignment of Credits to Courses 11
+2.1.4 Pre-requisite(s) 11
+2.1.5 Overlapping/Equivalent Courses 11
+2.2 Credit System 12
+2.2.1 Earning Credit 12
+2.2.2 Grading System 12
+2.2.3 Evaluation System 14
+2.2.4 Evaluation of Performance 14
+2.2.5 Course Instru","DSAI heading found, but no table was detected. Check PDF table extraction."
+,,3,"MSc in Chemistry 37
+MSc in Mathematics and Computing 38
+MSc in Physics 39
+Course Curriculum (MTech Programs) 40
+MTech in Bioengineering 41
+MTech in Biomedical Devices 42
+MTech in Computer Science and Engineering 43
+MTech in Communications and Signal Processing 44
+MTech in Control and Instrumentation 44
+MTech in Data Science and Artificial Intelligence 45
+MTech in Design and Manufacturing 46
+MTech in Electric Vehicle Technology 47
+MTech in Electronics & Communication Engineering 48
+MTech in Mater","DSAI heading found, but no table was detected. Check PDF table extraction."
+,,23,"BTech in Data Science and Artificial Intelligence
+Course category Minimum CSL252 Design and Analysis of 3-1-0-4
+credits Algorithms
+Institute core (IC) courses 40.5
+CSL303 Database Management 3-0-2-4
+Program linked (PL) courses 4 Systems
+Program core (PC) courses 51.5 DSL201 Mathematical 3-1-0-4
+Program elective (PE) courses 23 Foundations for Data
+Science
+Open elective (OE) Courses 15
+DSL251 Data Analytics and 3-0-0-3
+Liberal art (LA) courses 10
+Visualization
+Non-graded core (NC) 12 units CSP352","DSAI heading found, but no table was detected. Check PDF table extraction."
+I,Course-2,24,CYP102 / PHP102,Multiple course codes appear in one slot. Verify alternative-course interpretation.
+II,Course-3,24,PHP102 / CYP102,Multiple course codes appear in one slot. Verify alternative-course interpretation.
+,,99,"function, Fitting model to Data, Linear programming, Gradient Descent, Stochastic Gradient Descent;
+Probability and Statistic: Probability and Random Variables, Discrete and Continuous Probabilities,
+Density function and estimation, Expected Value, Variance, Joint, Marginal, and Conditional
+Distributions, Bayes’ Rule, Statistical Independence, Model Given Data. Transformation of random
+variables. Geometry of high-dimensional space.
+DSL503 Advanced Data Analytics
+3 Credits (3-0-0)
+Prerequisite(s)","DSAI heading found, but no table was detected. Check PDF table extraction."
+,,101,"Module 8: Advanced Topics: Deep learning for FC, Individual fingerprinting & functional gradients,
+Dynamic Mode Decomposition (DMD), Brain Stimulation and neurofeedback and its effect in Brain
+Functional Connectivity.
+DSL515 Advanced Programming for Data Science and Artificial Intelligence
+3 Credits (2-0-2)
+Prerequisite(s): None
+Overlap with: DSP505 (60%)
+Python Basics - Operators, Logic, Lists, Functions; Python File Handling – File Handling, Intermediate
+Python – Dictionary, Tuples, Sets, Comp","DSAI heading found, but no table was detected. Check PDF table extraction."
