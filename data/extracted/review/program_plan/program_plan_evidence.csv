@@ -1,0 +1,47 @@
+record_id,record_type,extracted_information,pdf_page,source_heading_or_section,exact_supporting_quotation,source_url,retrieved_on,source_type
+I_Course-1_CSL100,program_plan,"CSL100 is listed in Semester I, Course-1.",24,BTech in Data Science and Artificial Intelligence,CSL100,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-2_CYP102,program_plan,"CYP102 is listed in Semester I, Course-2.",24,BTech in Data Science and Artificial Intelligence,CYP102 / PHP102,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-2_PHP102,program_plan,"PHP102 is listed in Semester I, Course-2.",24,BTech in Data Science and Artificial Intelligence,CYP102 / PHP102,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-3_MAL100,program_plan,"MAL100 is listed in Semester I, Course-3.",24,BTech in Data Science and Artificial Intelligence,MAL100,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-4_CYL100,program_plan,"CYL100 is listed in Semester I, Course-4.",24,BTech in Data Science and Artificial Intelligence,CYL100,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-5_PHL101,program_plan,"PHL101 is listed in Semester I, Course-5.",24,BTech in Data Science and Artificial Intelligence,PHL101,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-6_CYL101,program_plan,"CYL101 is listed in Semester I, Course-6.",24,BTech in Data Science and Artificial Intelligence,CYL101,Course_of_Study.pdf,2026-11-10,official_pdf
+I_Course-7_NCN100,program_plan,"NCN100 is listed in Semester I, Course-7.",24,BTech in Data Science and Artificial Intelligence,NCN100,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-1_MEP102,program_plan,"MEP102 is listed in Semester II, Course-1.",24,BTech in Data Science and Artificial Intelligence,MEP102,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-2_EEL101,program_plan,"EEL101 is listed in Semester II, Course-2.",24,BTech in Data Science and Artificial Intelligence,EEL101,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-3_PHP102,program_plan,"PHP102 is listed in Semester II, Course-3.",24,BTech in Data Science and Artificial Intelligence,PHP102 / CYP102,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-3_CYP102,program_plan,"CYP102 is listed in Semester II, Course-3.",24,BTech in Data Science and Artificial Intelligence,PHP102 / CYP102,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-4_MAL101,program_plan,"MAL101 is listed in Semester II, Course-4.",24,BTech in Data Science and Artificial Intelligence,MAL101,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-5_ECL101,program_plan,"ECL101 is listed in Semester II, Course-5.",24,BTech in Data Science and Artificial Intelligence,ECL101,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-6_BML101,program_plan,"BML101 is listed in Semester II, Course-6.",24,BTech in Data Science and Artificial Intelligence,BML101,Course_of_Study.pdf,2026-11-10,official_pdf
+II_Course-7_LAN103,program_plan,"LAN103 is listed in Semester II, Course-7.",24,BTech in Data Science and Artificial Intelligence,LAN103,Course_of_Study.pdf,2026-11-10,official_pdf
+III_Course-1_MAL403,program_plan,"MAL403 is listed in Semester III, Course-1.",24,BTech in Data Science and Artificial Intelligence,MAL403,Course_of_Study.pdf,2026-11-10,official_pdf
+III_Course-2_CSL201,program_plan,"CSL201 is listed in Semester III, Course-2.",24,BTech in Data Science and Artificial Intelligence,CSL201,Course_of_Study.pdf,2026-11-10,official_pdf
+III_Course-3_CSL202,program_plan,"CSL202 is listed in Semester III, Course-3.",24,BTech in Data Science and Artificial Intelligence,CSL202,Course_of_Study.pdf,2026-11-10,official_pdf
+III_Course-4_DSL201,program_plan,"DSL201 is listed in Semester III, Course-4.",24,BTech in Data Science and Artificial Intelligence,DSL201,Course_of_Study.pdf,2026-11-10,official_pdf
+III_Course-5_LAL100,program_plan,"LAL100 is listed in Semester III, Course-5.",24,BTech in Data Science and Artificial Intelligence,LAL100,Course_of_Study.pdf,2026-11-10,official_pdf
+III_Course-6_LA_Courses,program_plan,"LA Courses requirement in Semester III, Course-6.",24,BTech in Data Science and Artificial Intelligence,LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-1_CSL251,program_plan,"CSL251 is listed in Semester IV, Course-1.",24,BTech in Data Science and Artificial Intelligence,CSL251,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-2_CSL252,program_plan,"CSL252 is listed in Semester IV, Course-2.",24,BTech in Data Science and Artificial Intelligence,CSL252,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-3_DSL251,program_plan,"DSL251 is listed in Semester IV, Course-3.",24,BTech in Data Science and Artificial Intelligence,DSL251,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-4_DSP252,program_plan,"DSP252 is listed in Semester IV, Course-4.",24,BTech in Data Science and Artificial Intelligence,DSP252,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-5_DSL253,program_plan,"DSL253 is listed in Semester IV, Course-5.",24,BTech in Data Science and Artificial Intelligence,DSL253,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-6_LAL101,program_plan,"LAL101 is listed in Semester IV, Course-6.",24,BTech in Data Science and Artificial Intelligence,LAL101,Course_of_Study.pdf,2026-11-10,official_pdf
+IV_Course-7_LA_Courses,program_plan,"LA Courses requirement in Semester IV, Course-7.",24,BTech in Data Science and Artificial Intelligence,LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+V_Course-1_DSP301,program_plan,"DSP301 is listed in Semester V, Course-1.",24,BTech in Data Science and Artificial Intelligence,DSP301,Course_of_Study.pdf,2026-11-10,official_pdf
+V_Course-2_CSL303,program_plan,"CSL303 is listed in Semester V, Course-2.",24,BTech in Data Science and Artificial Intelligence,CSL303,Course_of_Study.pdf,2026-11-10,official_pdf
+V_Course-3_CSL304,program_plan,"CSL304 is listed in Semester V, Course-3.",24,BTech in Data Science and Artificial Intelligence,CSL304,Course_of_Study.pdf,2026-11-10,official_pdf
+V_Course-4_PE,program_plan,"PE requirement in Semester V, Course-4.",24,BTech in Data Science and Artificial Intelligence,PE,Course_of_Study.pdf,2026-11-10,official_pdf
+V_Course-5_LA_Courses,program_plan,"LA Courses requirement in Semester V, Course-5.",24,BTech in Data Science and Artificial Intelligence,LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-1_DSL351,program_plan,"DSL351 is listed in Semester VI, Course-1.",24,BTech in Data Science and Artificial Intelligence,DSL351,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-2_DSP352,program_plan,"DSP352 is listed in Semester VI, Course-2.",24,BTech in Data Science and Artificial Intelligence,DSP352,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-3_DSP353,program_plan,"DSP353 is listed in Semester VI, Course-3.",24,BTech in Data Science and Artificial Intelligence,DSP353,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-4_DSQ401,program_plan,"DSQ401 is listed in Semester VI, Course-4.",24,BTech in Data Science and Artificial Intelligence,DSQ401,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-5_UGQ301,program_plan,"UGQ301 is listed in Semester VI, Course-5.",24,BTech in Data Science and Artificial Intelligence,UGQ301,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-6_CSP352,program_plan,"CSP352 is listed in Semester VI, Course-6.",24,BTech in Data Science and Artificial Intelligence,CSP352,Course_of_Study.pdf,2026-11-10,official_pdf
+VI_Course-7_LA_Courses,program_plan,"LA Courses requirement in Semester VI, Course-7.",24,BTech in Data Science and Artificial Intelligence,LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+VII_Course-1_PE,program_plan,"PE requirement in Semester VII, Course-1.",24,BTech in Data Science and Artificial Intelligence,PE,Course_of_Study.pdf,2026-11-10,official_pdf
+VII_Course-2_OE,program_plan,"OE requirement in Semester VII, Course-2.",24,BTech in Data Science and Artificial Intelligence,OE,Course_of_Study.pdf,2026-11-10,official_pdf
+VIII_Course-1_PE,program_plan,"PE requirement in Semester VIII, Course-1.",24,BTech in Data Science and Artificial Intelligence,PE,Course_of_Study.pdf,2026-11-10,official_pdf
+VIII_Course-2_OE,program_plan,"OE requirement in Semester VIII, Course-2.",24,BTech in Data Science and Artificial Intelligence,OE,Course_of_Study.pdf,2026-11-10,official_pdf
+VIII_Course-3_LA_Courses,program_plan,"LA Courses requirement in Semester VIII, Course-3.",24,BTech in Data Science and Artificial Intelligence,LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf

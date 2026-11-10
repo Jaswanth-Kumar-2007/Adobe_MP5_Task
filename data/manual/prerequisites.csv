@@ -1,0 +1,12 @@
+﻿course, requires, kind    , group, source_url                                                     , retrieved_on, source_type
+CSL202, CSL100  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+CSL251, CSL100  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+CSL251, ECL101  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+CSL252, CSL100  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+CSL252, CSL201  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+CSL252, CSL202  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+DSL251, DSL201  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+DSP252, DSL201  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+DSL253, MAL403  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+DSL351, CSL303  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+DSP352, CSL303  , required, G1   , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official

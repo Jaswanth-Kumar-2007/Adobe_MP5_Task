@@ -1,0 +1,37 @@
+source_page,course_code,course_title,raw_row,review_reason
+1,NCN101,NATIONAL SERVICE SCHEME,NCN101 | NATIONAL SERVICE SCHEME | X-X-X | 1 to 4 | All | BTech |  |  |  | Dr. Krishna Murari | ,Credit value needs manual review.
+1,NCN102,National Sports Organization,NCN102 | National Sports Organization | X-X-X | 1 to 4 | All | BTech |  |  |  | Dr. Pawan Kumar Mishra | ,Credit value needs manual review.
+1,BMT899,PhD Thesis,BMT899 | PhD Thesis | X-X-X | 12 to 15 | BSBM | PhD |  |  |  | DPGC_BSBM | ,Credit value needs manual review.
+1,CS499,Thesis (BTech),CS499 | Thesis (BTech) | X-X-X | 6 to 12 | CSE | BTech |  |  |  | DUGC_CSE | ,Credit value needs manual review.
+1,CST899,Thesis (PhD) New,CST899 | Thesis (PhD) New | X-X-X | 9 to12 | CSE | PhD |  |  |  | DPGC_CSE | ,Credit value needs manual review.
+1,DS499,Thesis (BTech),DS499 | Thesis (BTech) | X-X-X | 6 to 12 | CSE - DSAI | BTech |  |  |  | DUGC_CSE | ,Credit value needs manual review.
+1,CST799,Thesis (MTech),CST799 | Thesis (MTech) | X-X-X | 9 to 12 | CSE | MTech |  |  |  | DPGC_CSE | ,Credit value needs manual review.
+1,DST899,Thesis (PhD) New,DST899 | Thesis (PhD) New | X-X-X | 9 to12 | CSE - DSAI | PhD |  |  |  | DPGC_CSE | ,Credit value needs manual review.
+1,DSL504/DS504,Natural Language Processing,"DSL504/DS504 | Natural Language Processing | 3-0-2 | 4/6 | CSE - DSAI/MT |  | M/L-209(LH300) |  | O23/DEPT | Dr. Soumajit Pramanik | This course should not overlap with EEL601 and MTL501 PE for MT, PE for ECE",Credit value needs manual review.
+1,DST799,Thesis (MTech),DST799 | Thesis (MTech) | X-X-X | 9 to 12 | CSE - DSAI | MTech |  |  |  | DPGC_CSE | ,Credit value needs manual review.
+2,CYT899,Thesis (PhD) New,CYT899 | Thesis (PhD) New | X-X-X | 9 to 12 | CY | PhD |  |  |  | DPGC_CY |  | ,Credit value needs manual review.
+2,ECT799,Thesis (MTech),ECT799 | Thesis (MTech) | X-X-X | 9 to 12 | ECE | MTech |  |  |  | DPGC_ECE |  | ,Credit value needs manual review.
+2,ECT899,Thesis (PhD),ECT899 | Thesis (PhD) | X-X-X | 9 to 12 | ECE | PhD |  |  |  | DPGC_ECE |  | ,Credit value needs manual review.
+2,EE499,Thesis (BTech),EE499 | Thesis (BTech) | X-X-X | 6 to 12 | EE | BTech |  |  |  | DUGC_EE |  | ,Credit value needs manual review.
+2,EE799,Thesis (PhD) Old,EE799 | Thesis (PhD) Old | X-X-X | 24 to 30 | EE | PhD |  |  |  | DPGC_EE |  | ,Credit value needs manual review.
+2,EV799,Thesis (PhD) Old,EV799 | Thesis (PhD) Old | X-X-X | 24 to 30 | EE | PhD |  |  |  | DPGC_EVT |  | ,Credit value needs manual review.
+3,EEL524,Computer Aided Power System Analysis,EEL524 | Computer Aided Power System Analysis | 3-0-0 | 3/6 | EE |  | M/ED-1 212/213 |  |  | Dr. Krishna Murari | ,Credit value needs manual review.
+3,EET799,Thesis (MTech),EET799 | Thesis (MTech) | X-X-X | 9 to 12 | EE | MTech |  |  |  | DPGC_EE | ,Credit value needs manual review.
+3,EET899,Thesis (PhD) New,EET899 | Thesis (PhD) New | X-X-X | 9 to 12 | EE | PhD |  |  |  | DPGC_EE | ,Credit value needs manual review.
+3,LA799,PhD Thesis,LA799 | PhD Thesis | X-X-X | 6 to 30 | LA | PhD |  |  |  | DPGC_LA | ,Credit value needs manual review.
+3,LAL225/LA360,Self and Society in Modern India,LAL225/LA360 | Self and Society in Modern India | 2-0-0 | 2/2 | LA | BTech | L12/L-209(LH300) |  |  | Dr. Ritika Verma | ,Credit value needs manual review.
+3,LAL221/LA302,Indian Writing in English,LAL221/LA302 | Indian Writing in English | 2-0-0 | 2/4 | LA | BTech | H12/SD-2 202/203 |  |  | Dr. Anubhav Pradhan | ,Credit value needs manual review.
+3,LAL252/LA252,Introduction to Stress and Coping,"LAL252/LA252 | Introduction to Stress and Coping | 2-0-0 | 2/4 | LA | BTech | H12/L-201,L-202 |  |  | Dr. Eslavath Rajkumar | ",Credit value needs manual review.
+3,LAT899,PhD Thesis,LAT899 | PhD Thesis | X-X-X | 3 to 12 | LA | PhD |  |  |  | DPGC_LA | ,Credit value needs manual review.
+3,MA799,Thesis (PhD) Old,MA799 | Thesis (PhD) Old | X-X-X | 6 to 30 | MA | PhD |  |  |  | DPGC_MA | ,Credit value needs manual review.
+4,MAT899,Thesis (PhD) New,MAT899 | Thesis (PhD) New | X-X-X | 12 to 15 | MA | PhD |  |  |  | DPGC_MA | ,Credit value needs manual review.
+4,ME499,Thesis (BTech),ME499 | Thesis (BTech) | X-X-X | 6 to 12 | ME | BTech |  |  |  | DUGC_ME | ,Credit value needs manual review.
+4,MET799,Thesis (MTech),MET799 | Thesis (MTech) | X-X-X | 9 to 12 | ME | MTech |  |  |  | DPGC_ME | ,Credit value needs manual review.
+4,ME799,Thesis (PhD) Old,ME799 | Thesis (PhD) Old | X-X-X | 6 to 30 | ME | PhD |  |  |  | DPGC_ME | ,Credit value needs manual review.
+4,MET899,Thesis (PhD) New,MET899 | Thesis (PhD) New | X-X-X | 9 to 12 | ME | PhD |  |  |  | DPGC_ME | ,Credit value needs manual review.
+4,MMT799,Thesis (MTech) New,MMT799 | Thesis (MTech) New | X-X-X | 3 to 12 | MSME | MTech |  |  |  | DPGC_MSME | ,Credit value needs manual review.
+4,MMT899,Thesis (PhD) New,MMT899 | Thesis (PhD) New | X-X-X | 9 to 12 | MSME | PhD |  |  |  | DPGC_MSME | ,Credit value needs manual review.
+4,MT799,PhD Thesis,MT799 | PhD Thesis | X-X-X | 6 to 30 | MT | PhD |  |  |  | DPGC_MT | ,Credit value needs manual review.
+5,MTL561/MT561,Unmanned Aerial Vehicle-I,MTL561/MT561 | Unmanned Aerial Vehicle-I | 3-0-2 | 4/6 | MT |  | I/L-205 |  | V23/DEPT | Dr. Kedarisetty Siddhardha | This course should not overlap with EEL601 and MTL501,Credit value needs manual review.
+5,PH799,Thesis (PhD) Old,PH799 | Thesis (PhD) Old | X-X-X | 6 to 30 | PH | PhD |  |  |  | DPGC_PH | ,Credit value needs manual review.
+5,PHT899,Thesis (PhD) New,PHT899 | Thesis (PhD) New | X-X-X | 9 to 12 | PH | PhD |  |  |  | DPGC_PH | ,Credit value needs manual review.

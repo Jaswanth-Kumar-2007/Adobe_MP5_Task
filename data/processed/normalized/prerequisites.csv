@@ -1,0 +1,13 @@
+course,requires,kind,group,source_url,retrieved_on,source_type
+DSL251,DSL201,required,AND,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,DSL201,required,AND,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL253,MAL403,required,AND,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL351,CSL303,required,AND,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,CSL303,required,AND,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL507,DSL502,required,OR,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL507,DSL201,required,OR,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL605,DSL504,required,AND,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,CSL304,required,OR,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,CS550,required,OR,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,DSL501,required,OR,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,MAL403,required,OR,Course_of_Study.pdf,2026-11-10,official_pdf

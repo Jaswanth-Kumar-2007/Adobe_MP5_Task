@@ -1,0 +1,340 @@
+course_code,semester,source_page,source_text,review_reason
+AND600,,10,400-600 Core courses for MSc Programs (500 and 600 level courses,"Course found, but semester heading was not identified."
+THAN100,,11,"Each course, other than 100 level courses, may have specified pre-requisite(s) in","Course found, but semester heading was not identified."
+MEL612,,11,MEL612 Conduction and Radiation Heat Transfer,"Course found, but semester heading was not identified."
+MEL313,,11,Pre-requisite(s): MEL313 or equivalent,"Course found, but semester heading was not identified."
+MEL304,,12,MEL304 Applied Numerical Methods,"Course found, but semester heading was not identified."
+MAL101,,12,Overlap with: MAL101 (10%),"Course found, but semester heading was not identified."
+LAN102,,16,1. LAN102 Speaking and Writing Skills 2 units,"Course found, but semester heading was not identified."
+LAN103,,16,2. LAN103 Professional ethics 1 unit,"Course found, but semester heading was not identified."
+NCN100,,16,3. NCN100 Practices for Comprehensive 1 unit,"Course found, but semester heading was not identified."
+NCN101,,16,4 NCN101/ National Service Scheme/National 8 units,"Course found, but semester heading was not identified."
+NCN102,,16,NCN102 Sports Organization,"Course found, but semester heading was not identified."
+OF120,,17,Students have to spend a minimum of 120 hours in the National Service Scheme,"Course found, but semester heading was not identified."
+CSL303,,21,CSL303 Database Management 3-0-2-4,"Course found, but semester heading was not identified."
+SL302,,21,Institute core (IC) courses 40.5 SL302 Systems,"Course found, but semester heading was not identified."
+CSL251,,21,Program linked (PL) courses 4 CSL251 Computer Organization 3-0-2-4,"Course found, but semester heading was not identified."
+CSL351,,21,Program elective (PE) courses 22.5 CSL351 Computer Networks 3-0-2-4,"Course found, but semester heading was not identified."
+CSL304,,21,Open elective (OE) Courses 15 CSL304 Artificial Intelligence 3-0-2-4,"Course found, but semester heading was not identified."
+CSP352,,21,Liberal art (LA) courses 10 CSP352 AI-Augmented Software 1-0-4-3,"Course found, but semester heading was not identified."
+CSQ401,,21,144 + 12 non- CSQ401 BTech Project-I 0-0-6-3,"Course found, but semester heading was not identified."
+UGQ301,,21,units UGQ301 Undergraduate Project 0-0-6-3,"Course found, but semester heading was not identified."
+BML101,,21,BML101 Biology for Engineers 3-0-0-3,"Course found, but semester heading was not identified."
+CYL100,,21,CYL100 Applied Chemistry 3-0-0-3,"Course found, but semester heading was not identified."
+CYP102,,21,CYP102 Chemistry lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+PHP102,,21,PHP102 Physics lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+PHL101,,21,PHL101 Physics for Engineers 3-1-0-4,"Course found, but semester heading was not identified."
+MAL100,,21,MAL100 Mathematics-I 3-1-0-4,"Course found, but semester heading was not identified."
+CSL100,,21,CSL100 2-1-3-4.5,"Course found, but semester heading was not identified."
+MEP102,,21,MEP102 Digital fabrication 1-0.5-3-3,"Course found, but semester heading was not identified."
+CYL101,,21,CYL101 Environmental Science 1-0-0-1,"Course found, but semester heading was not identified."
+EEL101,,21,EEL101 3-0-2-4,"Course found, but semester heading was not identified."
+ECL101,,21,ECL101 3-0-2-4,"Course found, but semester heading was not identified."
+LAL100,,21,LAL100 1-1-0-2,"Course found, but semester heading was not identified."
+LAL101,,21,LAL101 Introduction to Finance 1-0-0-1,"Course found, but semester heading was not identified."
+MAL403,,21,MAL403 Probability & Statistics 3-1-0-4,"Course found, but semester heading was not identified."
+CSP203,,21,CSP203 Software Tools & 1-0-4-3,"Course found, but semester heading was not identified."
+CSL201,,21,CSL201 Discrete Mathematics 3-1-0-4,"Course found, but semester heading was not identified."
+CSL202,,21,CSL202 Data Structures 2-1-2-4,"Course found, but semester heading was not identified."
+CSL252,,21,CSL252 Design and Analysis of 3-1-0-4,"Course found, but semester heading was not identified."
+CSL253,,21,CSL253 Theory of Computation 3-1-0-4,"Course found, but semester heading was not identified."
+CSL301,,21,CSL301 Operating Systems 3-0-2-4,"Course found, but semester heading was not identified."
+CSL302,,22,CSL301 CSL302 CSL303 CSL304,"Course found, but semester heading was not identified."
+DSL201,,23,Program core (PC) courses 51.5 DSL201 Mathematical 3-1-0-4,"Course found, but semester heading was not identified."
+DSL251,,23,DSL251 Data Analytics and 3-0-0-3,"Course found, but semester heading was not identified."
+DSP252,,23,Minimum credit requirement 144 + 12 non- DSP252 Data Analytics and 0-0-2-1,"Course found, but semester heading was not identified."
+DSL351,,23,DSL351 Bigdata Analytics 3-0-0-3,"Course found, but semester heading was not identified."
+DSP352,,23,DSP352 Bigdata Analytics Lab 0-0-2-1,"Course found, but semester heading was not identified."
+DSL253,,23,DSL253 Statistical Programming 1-0-2-2,"Course found, but semester heading was not identified."
+DSP301,,23,DSP301 AI and ML Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+DSL353,,23,DSL353 Information Security 2-0-2-3,"Course found, but semester heading was not identified."
+DSQ401,,23,DSQ401 BTech Project-I 0-0-6-3,"Course found, but semester heading was not identified."
+DSP353,,24,DSL351 DSP352 DSP353 DSQ401 UGQ301 CSP352,"Course found, but semester heading was not identified."
+EEL201,,25,Open elective (OE) Courses 15 EEL201 Circuit and System 3-1-0-4,"Course found, but semester heading was not identified."
+EEL202,,25,Liberal art (LA) courses 10 EEL202 Analog Circuits 3-1-0-4,"Course found, but semester heading was not identified."
+EEL203,,25,Non-graded core (NC) 12 units EEL203 Digital Circuits 2-0-0-2,"Course found, but semester heading was not identified."
+EEP209,,25,EEP209 Device and Circuit 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL205,,25,EEL205 Control Systems 3-1-0-4,"Course found, but semester heading was not identified."
+EEL204,,25,EEL204 Engineering 3-0-0-3,"Course found, but semester heading was not identified."
+EEP210,,25,EEP210 Digital Electronics 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEP308,,25,EEP308 Control Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL208,,25,EEL208 Sensors and 3-0-0-3,"Course found, but semester heading was not identified."
+EEL206,,25,EEL206 Electrical Machines-I 3-0-0-3,"Course found, but semester heading was not identified."
+EEP304,,25,EEP304 Sensor Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL302,,25,EEL302 Digital Control 3-1-0-4,"Course found, but semester heading was not identified."
+EEP306,,25,EEP306 Machines Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL207,,25,EEL207 Power system 3-0-0-3,"Course found, but semester heading was not identified."
+EEP307,,25,EEP307 Instrumentation Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL301,,25,EEL301 Electrical Machines-II 2-0-0-2,"Course found, but semester heading was not identified."
+EEL303,,25,EEL101 Basic Electrical 3-0-2-4 EEL303 Power Electronics 3-0-0-3,"Course found, but semester heading was not identified."
+EEP305,,25,EEP305 Power System Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEP309,,25,EEP309 Power Electronics Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEQ401,,25,EEQ401 Minor Project 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECL201,,27,Institute core (IC) courses 40.5 ECL201 Digital Design 3-0-0-3,"Course found, but semester heading was not identified."
+ECL202,,27,ECL202 Signals and Systems 3-0-0-3,"Course found, but semester heading was not identified."
+ECL203,,27,Program elective (PE) courses 21 ECL203 Electronics 3-0-0-3,"Course found, but semester heading was not identified."
+ECL204,,27,Open elective (OE) Courses 15 ECL204 Network Theory 3-0-0-3,"Course found, but semester heading was not identified."
+ECL211,,27,ECL211 3-0-0-3,"Course found, but semester heading was not identified."
+ECL212,,27,Minimum credit requirement 144 + 12 non- ECL212 3-0-0-3,"Course found, but semester heading was not identified."
+ECL213,,27,ECL213 3-0-0-3,"Course found, but semester heading was not identified."
+ECL214,,27,ECL214 Solid State Devices 3-0-0-3,"Course found, but semester heading was not identified."
+ECL301,,27,code ECL301 3-0-0-3,"Course found, but semester heading was not identified."
+ECL302,,27,CYL100 Applied Chemistry 3-0-0-3 ECL302 3-0-0-3,"Course found, but semester heading was not identified."
+ECL303,,27,PHP102 Physics lab 0-0-3-1.5 ECL303 3-0-0-3,"Course found, but semester heading was not identified."
+ECL304,,27,MAL100 Mathematics-I 3-1-0-4 ECL304 3-0-0-3,"Course found, but semester heading was not identified."
+ECL311,,27,ECL311 VLSI Technology 3-0-0-3,"Course found, but semester heading was not identified."
+ECL312,,27,ECL312 2-0-2-3,"Course found, but semester heading was not identified."
+ECP211,,27,ECP211 Embedded Systems 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECP212,,27,ECL101 Basic Electronics 3-0-2-4 ECP212 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECP301,,27,ECP301 Communication Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECP304,,27,ECP304 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECP305,,27,ECP305 0-0-2-1,"Course found, but semester heading was not identified."
+ECP306,,27,ECP306 0-0-3-1.5,"Course found, but semester heading was not identified."
+MML201,,29,Institute core (IC) courses 40.5 MML201 Thermodynamics of 3-0-0-3,"Course found, but semester heading was not identified."
+MML202,,29,MML202 Structure of Materials 3-0-0-3,"Course found, but semester heading was not identified."
+MML203,,29,MML203 Chemical Synthesis of 3-0-0-3,"Course found, but semester heading was not identified."
+MML204,,29,Open elective (OE) Courses 15 MML204 Properties and phase 3-0-0-3,"Course found, but semester heading was not identified."
+MML205,,29,MML205 Principles of Extractive 3-0-0-3,"Course found, but semester heading was not identified."
+MML251,,29,Minimum credit 144 + 12 non- MML251 Physical Properties of 3-0-0-3,"Course found, but semester heading was not identified."
+MML252,,29,MML252 Materials Characterization- 3-0-0-3,"Course found, but semester heading was not identified."
+MML253,,29,Course Course Name L-T-P-C MML253 Computational Materials 3-0-0-3,"Course found, but semester heading was not identified."
+MML254,,29,MML254 Mechanical behavior of 3-0-0-3,"Course found, but semester heading was not identified."
+MMP251,,29,MMP251 Chemical Synthesis and 0-0-3-1.5,"Course found, but semester heading was not identified."
+MML301,,29,PHL101 Physics for Engineers 3-1-0-4 MML301 Materials Characterization – 3-0-0-3,"Course found, but semester heading was not identified."
+MML302,,29,CSL100 Introduction to 2-1-3-4.5 MML302 Iron making And 3-0-0-3,"Course found, but semester heading was not identified."
+MML303,,29,MML303 Polymeric Materials and 3-0-0-3,"Course found, but semester heading was not identified."
+MMP301,,29,MMP301 Computational Materials 0-0-2-1,"Course found, but semester heading was not identified."
+MMP302,,29,MMP302 Industrial exposure to 0-0-2-1,"Course found, but semester heading was not identified."
+MMP303,,29,LAL100 Introduction to 1-1-0-2 MMP303 Metallurgical/Metallography 0-0-3-1.5,"Course found, but semester heading was not identified."
+MML351,,29,MML351 Technologies of Thin-film 3-0-0-3,"Course found, but semester heading was not identified."
+MML401,,29,MML401 Environmental Degradation 3-0-0-3,"Course found, but semester heading was not identified."
+MEL251,,29,"MEL251 Casting, Forming and 3-0-0-3 MMP401 Thin film fabrication and 0-0-3-1.5","Course found, but semester heading was not identified."
+MMP401,,29,"MEL251 Casting, Forming and 3-0-0-3 MMP401 Thin film fabrication and 0-0-3-1.5","Course found, but semester heading was not identified."
+UGP301,,30,MML351 MML401 UGP301 MMP401,"Course found, but semester heading was not identified."
+MEL211,,31,Program core (PC) courses 48.5 MEL211 Thermodynamics 2-1-0-3,"Course found, but semester heading was not identified."
+MEL212,,31,Program elective (PE) courses 24 MEL212 Fluid Mechanics 3-1-0-4,"Course found, but semester heading was not identified."
+MEL214,,31,Open elective (OE) Courses 15 MEL214 Applied Thermal 2-1-0-3,"Course found, but semester heading was not identified."
+MEL231,,31,MEL231 Engineering 2-1-0-3,"Course found, but semester heading was not identified."
+MEL252,,31,MEL252 Fundamentals of 3-0-0-3,"Course found, but semester heading was not identified."
+MEP302,,31,MEP302 Engineering and 0-0-4-2,"Course found, but semester heading was not identified."
+MEL333,,31,MAL100 Mathematics-I 3-1-0-4 MEL333 Design of Machine 3-0.5-0-3.5,"Course found, but semester heading was not identified."
+MEL334,,31,CSL100 Introduction to 2-1-3-4.5 MEL334 Theory of Mechanisms 3-0.5-0-3.5,"Course found, but semester heading was not identified."
+MEL351,,31,MEL351 Machining and 3-0-0-3,"Course found, but semester heading was not identified."
+MEP371,,31,CYL101 Environmental Science 1-0-0-1 MEP371 Thermal and Fluid 0-0-3-1.5,"Course found, but semester heading was not identified."
+MEP376,,31,MEP376 Solid Mechanics and 0-0-3-1.5,"Course found, but semester heading was not identified."
+MEP381,,31,MEP381 Manufacturing and 0-0-3-1.5,"Course found, but semester heading was not identified."
+MEL232,,32,MEL232 MEL214 MEL212 MEL252 LAL101,"Course found, but semester heading was not identified."
+MTL203,,33,MTL203,"Course found, but semester heading was not identified."
+MTL201,,33,programming MTL201 Fluid Power System 3-0-2-4,"Course found, but semester heading was not identified."
+MTL202,,33,MTL202 Industry 4.0 3-0-0-3,"Course found, but semester heading was not identified."
+MTL301,,33,Science MTL301 Fundamental of 3-0-0-3,"Course found, but semester heading was not identified."
+MTP301,,33,MTP301 Mechanism Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+MTP302,,33,MTP302 Mechatronics Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+MTQ401,,33,MTQ401 Minor Project 0-0-3-1.5,"Course found, but semester heading was not identified."
+CYP502,,36,Course category Minimum CYP502 Organic and Inorganic 0-0-6-3,"Course found, but semester heading was not identified."
+CYP503,,36,CYP503 Physical and 0-0-6-3,"Course found, but semester heading was not identified."
+CYL504,,36,CYL504 Thermodynamics and 3-0-0-3,"Course found, but semester heading was not identified."
+CYL505,,36,Program core (PC) courses CYL505 Organic Reactions and 3-0-0-3,"Course found, but semester heading was not identified."
+CYL506,,36,code CYL506 Bioinorganic 3-0-0-3,"Course found, but semester heading was not identified."
+CYL400,,36,CYL400 Chemical Kinetics and 3-0-0-3 Chemistry,"Course found, but semester heading was not identified."
+CYL600,,36,Surface Science CYL600 Advanced Organic 3-0-0-3,"Course found, but semester heading was not identified."
+CYL401,,36,CYL401 Coordination 3-0-0-3 Chemistry,"Course found, but semester heading was not identified."
+CYL601,,36,CYL601 Organometallic 3-0-0-3,"Course found, but semester heading was not identified."
+CYL500,,36,CYL500 Quantum Chemistry 3-0-0-3 Chemistry,"Course found, but semester heading was not identified."
+CYL501,,36,CYL501 Stereochemistry and 3-0-0-3,"Course found, but semester heading was not identified."
+CYT699,,36,CYT699 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+MAL405,,37,Course category Minimum MAL405 Differential 3-1-0-4,"Course found, but semester heading was not identified."
+MAL406,,37,Program core (PC) courses 48 MAL406 Numerical 3-1-0-4,"Course found, but semester heading was not identified."
+MAL500,,37,Program elective (PE) courses/ Open 3 MAL500 Topology 3-0-0-3,"Course found, but semester heading was not identified."
+MAL501,,37,elective (OE) courses MAL501 Complex 3-0-0-3,"Course found, but semester heading was not identified."
+MAL502,,37,MAL502 Functional 3-1-0-4,"Course found, but semester heading was not identified."
+MAL503,,37,Program core (PC) courses MAL503 Discrete 3-1-0-4,"Course found, but semester heading was not identified."
+MAL504,,37,MAL504 Data Structure 2-1-2-4,"Course found, but semester heading was not identified."
+MAL400,,37,MAL400 Introduction to 2-1-3-4.5,"Course found, but semester heading was not identified."
+MAL505,,37,Programming MAL505 Database 3-0-2-4,"Course found, but semester heading was not identified."
+MAL401,,37,MAL401 Linear Algebra 3-0-0-3 Management,"Course found, but semester heading was not identified."
+MAL402,,37,MAL402 Real Analysis 3-0.5-0-3.5,"Course found, but semester heading was not identified."
+MAQ699,,37,MAL403 Probability and 3-1-0-4 MAQ699 Project X-X-X-X,"Course found, but semester heading was not identified."
+MAL404,,37,MAL404 Modern Algebra 3-0-0-3,"Course found, but semester heading was not identified."
+PHL502,,38,Course category Minimum PHL502 Quantum Mechanics 3-0-0-3,"Course found, but semester heading was not identified."
+PHL505,,38,credits PHL505 Electrodynamics 3-0-0-3,"Course found, but semester heading was not identified."
+PHP506,,38,PHP506 Electronics Laboratory 0-0-6-3,"Course found, but semester heading was not identified."
+PHL507,,38,PHL507 Statistical Mechanics 3-0-0-3,"Course found, but semester heading was not identified."
+PHL508,,38,PHL508 Solid State Physics 3-0-0-3,"Course found, but semester heading was not identified."
+PHL509,,38,PHL509 Nuclear and Particle 3-0-0-3,"Course found, but semester heading was not identified."
+PHL510,,38,PHL510 Atomic and Molecular 3-0-0-3,"Course found, but semester heading was not identified."
+PHP511,,38,PHP511 General Physics 0-0-6-3,"Course found, but semester heading was not identified."
+PHL403,,38,PHL403 Mathematical Physics 3-0-0-3,"Course found, but semester heading was not identified."
+PHL404,,38,PHL404 Electronics 3-0-0-3,"Course found, but semester heading was not identified."
+PHT699,,38,PHT699 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+PHL501,,38,PHL501 Classical Mechanics 3-0-0-3,"Course found, but semester heading was not identified."
+BML511,,40,Program elective (PE) courses 9 BML511 Physiology 2-0-0-2,"Course found, but semester heading was not identified."
+BML512,,40,BML512 Molecular Biology 3-0-0-3,"Course found, but semester heading was not identified."
+BML513,,40,BML513 Biochemistry 2-0-0-2,"Course found, but semester heading was not identified."
+BML551,,40,BML551 Instrumentation in 3-0-0-3,"Course found, but semester heading was not identified."
+BMP581,,40,BMP581 Bioengineering Lab 1 0-0-2-1,"Course found, but semester heading was not identified."
+BMP582,,40,BMP582 Bioengineering Lab 2 0-0-2-1,"Course found, but semester heading was not identified."
+BMT799,,40,BMT799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+BMP501,,41,Course category Minimum BMP501 Biomedical 0-0-2-1,"Course found, but semester heading was not identified."
+BMP502,,41,Program core (PC) courses 12 BMP502 Biomedical Devices 0-0-2-1,"Course found, but semester heading was not identified."
+BML617,,41,BML617 Biomedical imaging 3-0-0-3,"Course found, but semester heading was not identified."
+BML651,,41,BML651 Magnetic Resonance 2-0-0-2,"Course found, but semester heading was not identified."
+CSL502,,42,Program elective (PE) courses 9 CSL502 Foundation of 3-0-0-3,"Course found, but semester heading was not identified."
+CSL503,,42,elective (OE) Courses CSL503 Computer Systems 2-0-2-3,"Course found, but semester heading was not identified."
+CSL606,,42,Courses/ Program elective (PE) CSL606 Advance Data 3-0-0-3,"Course found, but semester heading was not identified."
+CSL605,,42,CSL605 Computer Networks 2-0-2-3,"Course found, but semester heading was not identified."
+CST799,,42,CST799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+ECL570,,43,Program elective (PE) courses 6 ECL570 Matrix Theory 3-0-0-3,"Course found, but semester heading was not identified."
+ECL571,,43,Program elective (PE)/Open 3 ECL571 Random Variables and 3-0-0-3,"Course found, but semester heading was not identified."
+ECL572,,43,ECL572 Advanced Topics in 2-0-2-3,"Course found, but semester heading was not identified."
+ECL573,,43,courses ECL573 Advanced 2-0-2-3,"Course found, but semester heading was not identified."
+ECL574,,43,ECL574 Machine Learning for 2-0-2-3,"Course found, but semester heading was not identified."
+ECT799,,43,ECT799 Thesis X-X-X-24,"Course found, but semester heading was not identified."
+EEP501,,44,Program elective (PE) courses 9 EEP501 Control Systems Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEP502,,44,EEP502 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL601,,44,EEL601 3-0-0-3,"Course found, but semester heading was not identified."
+EEL602,,44,EEL602 3-0-0-3,"Course found, but semester heading was not identified."
+EEL603,,44,EEL603 Optimal Control 3-0-0-3,"Course found, but semester heading was not identified."
+EET799,,44,EET799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+DSL502,,45,Program elective (PE) courses 9 DSL502 Basic Mathematics for 2-1-0-3,"Course found, but semester heading was not identified."
+DSP505,,45,DSP505 Programming Lab for 1-0-2-2,"Course found, but semester heading was not identified."
+DSL501,,45,DSL501 Machine Learning 3-0-2-4,"Course found, but semester heading was not identified."
+DST799,,45,DST799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+MEL501,,46,Program elective (PE) courses 9 MEL501 Advanced Engineering 3-0-0-3,"Course found, but semester heading was not identified."
+MEL631,,46,elective (OE) Courses MEL631 Continuum Mechanics 3-0-0-3,"Course found, but semester heading was not identified."
+MEL651,,46,Courses/ Program elective (PE) MEL651 Additive 3-0-0-3,"Course found, but semester heading was not identified."
+MEL633,,46,MEL633 Finite Element Method 2-1-0-3,"Course found, but semester heading was not identified."
+MET799,,46,MET799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+EVL501,,47,EVL501 Introduction of EV and 3-0-0-3,"Course found, but semester heading was not identified."
+EVL503,,47,elective (OE) Courses EVL503 Motor Drives for EV 3-0-0-3,"Course found, but semester heading was not identified."
+EVL506,,47,EVL506 Energy Storage 3-0-0-3,"Course found, but semester heading was not identified."
+EVP506,,47,EVP506 Power Electronics for 0-0-3-1.5,"Course found, but semester heading was not identified."
+EVP600,,47,EVP600 Drives Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EVT799,,47,EVT799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+EVP602,,47,EVL506 EVP506 EVP602,"Course found, but semester heading was not identified."
+ECL501,,48,ECL501 Computer 2-0-2-3,"Course found, but semester heading was not identified."
+ECL502,,48,ECL502 Advanced Digital 3-0-0-3,"Course found, but semester heading was not identified."
+ECL503,,48,Courses/ Program elective (PE) ECL503 Digital IC Design 3-0-0-3,"Course found, but semester heading was not identified."
+ECL504,,48,Thesis 24 ECL504 Semiconductor Devices 3-0-0-3,"Course found, but semester heading was not identified."
+MML502,,49,Course category Minimum MML502 Thermodynamics and 3-0-0-3,"Course found, but semester heading was not identified."
+MML504,,49,MML504 Materials Synthesis and 3-0-0-3,"Course found, but semester heading was not identified."
+MMP510,,49,MMP510 Materials Synthesis and 0-0-3-1.5,"Course found, but semester heading was not identified."
+MMP511,,49,"MMP511 Materials Processing, 0-0-3-1.5","Course found, but semester heading was not identified."
+MML554,,49,MML554 Computational Methods 3-0-0-3,"Course found, but semester heading was not identified."
+MML501,,49,MML501 Characterization and 3-0-0-3,"Course found, but semester heading was not identified."
+MMT799,,49,MMT799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+MTL501,,50,MTL501 Fundamental of 2-0-2-3,"Course found, but semester heading was not identified."
+MTL602,,50,Thesis 24 MTL602 Design and Analysis of 3-0-0-3,"Course found, but semester heading was not identified."
+MTL655,,50,MTL655 Automation in 3-0-0-3,"Course found, but semester heading was not identified."
+MTT799,,50,MTT799 Thesis X-X-X-X,"Course found, but semester heading was not identified."
+ECL530,,51,ECL530 Semiconductor Device 3-0-0-3,"Course found, but semester heading was not identified."
+ECL531,,51,Thesis/Open elective (OE) 3 ECL531 Integrated Circuit 3-0-0-3,"Course found, but semester heading was not identified."
+ECP540,,51,courses ECP540 Microfabrication Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECP541,,51,ECP541 VLSI Design Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+ECL551,,51,ECL551 CMOS Analog IC 3-0-0-3,"Course found, but semester heading was not identified."
+EEP522,,52,EEP522 Power Electronics Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL521,,52,9 EEL521 Renewable and 3-0-0-3,"Course found, but semester heading was not identified."
+EEP523,,52,Minimum credit requirement 54 EEP523 Power Systems Lab 0-0-3-1.5,"Course found, but semester heading was not identified."
+EEL621,,52,EEL621 Advanced Power 3-0-0-3,"Course found, but semester heading was not identified."
+EEL622,,52,EEL622 Power Quality 3-0-0-3,"Course found, but semester heading was not identified."
+MEL611,,53,elective (OE) Courses MEL611 Advanced Fluid 3-0-0-3,"Course found, but semester heading was not identified."
+MEL613,,53,MEL613 Convective Heat 3-0-0-3,"Course found, but semester heading was not identified."
+BML514,,63,BML514 Evolutionary Principles in Health and Disease,"Course found, but semester heading was not identified."
+BML603,,64,Overlap with: BML603 (15%),"Course found, but semester heading was not identified."
+BML515,,64,BML515 Principles of Epidemiology and Public Health,"Course found, but semester heading was not identified."
+BML601,,66,BML601 Advances in Cancer Biology,"Course found, but semester heading was not identified."
+BML616,,66,"Overlap with: BML101 (5%), BML616 (5%)","Course found, but semester heading was not identified."
+BML602,,66,BML602 Immunological Principles and Diagnostic Technologies,"Course found, but semester heading was not identified."
+BML611,,67,BML611 Biomicrofluidics and Lab-on-Chip,"Course found, but semester heading was not identified."
+BML612,,67,BML612 Bioinformatics,"Course found, but semester heading was not identified."
+BML613,,67,BML613 Bionanotechnology,"Course found, but semester heading was not identified."
+BML614,,68,BML614 BioMEMS and Biosensors,"Course found, but semester heading was not identified."
+BML615,,68,BML615 Biomaterials Science and Engineering,"Course found, but semester heading was not identified."
+CYL509,,69,Overlap with: CYL509 (5%),"Course found, but semester heading was not identified."
+CYL503,,75,Prerequisite(s): CYL503,"Course found, but semester heading was not identified."
+CYL507,,76,CYL507 Chemistry of Main Group Elements,"Course found, but semester heading was not identified."
+CYL508,,76,CYL508 Organic Photochemistry and Pericyclic reactions,"Course found, but semester heading was not identified."
+CYL510,,77,CYL510 Physical Organic Chemistry,"Course found, but semester heading was not identified."
+CYL511,,77,CYL511 An Introduction to Catalyst Design: Function and Application,"Course found, but semester heading was not identified."
+CY504,,78,Prerequisite(s): CY504 and CY508,"Course found, but semester heading was not identified."
+CY508,,78,Prerequisite(s): CY504 and CY508,"Course found, but semester heading was not identified."
+CYL508,I,79,Overlap with: CYL508 (5%); CYL602 (5%),Multiple course codes found on one line; verify table structure.
+CYL500,I,79,Prerequisite(s): CYL500 or PHL502 or equivalent,Multiple course codes found on one line; verify table structure.
+PHL502,I,79,Prerequisite(s): CYL500 or PHL502 or equivalent,Multiple course codes found on one line; verify table structure.
+EVL500,I,80,"Overlap with: EVL506 (10%), EVL500 (10%), EVL600 (10%)",Multiple course codes found on one line; verify table structure.
+EVL600,I,80,"Overlap with: EVL506 (10%), EVL500 (10%), EVL600 (10%)",Multiple course codes found on one line; verify table structure.
+CY622,I,81,"Overlap with: CY622 (50-60%), CY625 (30%), CYL504 (10%), BML612 (10%).",Multiple course codes found on one line; verify table structure.
+CY625,I,81,"Overlap with: CY622 (50-60%), CY625 (30%), CYL504 (10%), BML612 (10%).",Multiple course codes found on one line; verify table structure.
+CYL504,I,81,"Overlap with: CY622 (50-60%), CY625 (30%), CYL504 (10%), BML612 (10%).",Multiple course codes found on one line; verify table structure.
+BML612,I,81,"Overlap with: CY622 (50-60%), CY625 (30%), CYL504 (10%), BML612 (10%).",Multiple course codes found on one line; verify table structure.
+ECL101,I,84,Prerequisite(s): CSL100 and ECL101.,Multiple course codes found on one line; verify table structure.
+IC150,I,86,"Prerequisite(s): IC100, IC150, CS204, CS250, CS251",Multiple course codes found on one line; verify table structure.
+CS204,I,86,"Prerequisite(s): IC100, IC150, CS204, CS250, CS251",Multiple course codes found on one line; verify table structure.
+CS250,I,86,"Prerequisite(s): IC100, IC150, CS204, CS250, CS251",Multiple course codes found on one line; verify table structure.
+CS251,I,86,"Prerequisite(s): IC100, IC150, CS204, CS250, CS251",Multiple course codes found on one line; verify table structure.
+CSL250,I,88,Overlap with: CSL250 (30%) and CSL204 (15%),Multiple course codes found on one line; verify table structure.
+CSL204,I,88,Overlap with: CSL250 (30%) and CSL204 (15%),Multiple course codes found on one line; verify table structure.
+CS502,I,88,Overlap with: CSL201 (10%) and CS502-old (90%),Multiple course codes found on one line; verify table structure.
+CS515,I,89,"Overlap with: CSL252 (10%), CS515 (90%)",Multiple course codes found on one line; verify table structure.
+CS559,I,90,"Overlap with: CSL301 (10%), CS559 (90%)",Multiple course codes found on one line; verify table structure.
+EE529,I,91,"Overlap with: EE529 (15%), EE577 (20%)",Multiple course codes found on one line; verify table structure.
+EE577,I,91,"Overlap with: EE529 (15%), EE577 (20%)",Multiple course codes found on one line; verify table structure.
+CS608,I,93,"Overlap with: CSL252 (15%), CS608 (100%)",Multiple course codes found on one line; verify table structure.
+CS612,I,94,"Overlap with: CSL253 (15%), CS612 (100%)",Multiple course codes found on one line; verify table structure.
+CS613,I,94,"Overlap with: CSL601 (15%), CS613 (100%)",Multiple course codes found on one line; verify table structure.
+CS202,I,94,Prerequisite(s): CS202/CSL252,Multiple course codes found on one line; verify table structure.
+MAL100,I,96,"Overlap with: MAL100 (10%), and MAL201 (10%)",Multiple course codes found on one line; verify table structure.
+MAL201,I,96,"Overlap with: MAL100 (10%), and MAL201 (10%)",Multiple course codes found on one line; verify table structure.
+MAL401,I,98,"Overlap with: MAL403 (35%), DSL201 (60%), MAL401 (30%)",Multiple course codes found on one line; verify table structure.
+CSL501,I,102,"Overlap with: CSL501 (20%), DSL503 (10%)",Multiple course codes found on one line; verify table structure.
+CS550,I,103,Prerequisite(s): Either CSL304 or CS550/DSL501 and MAL403 or equivalent,Multiple course codes found on one line; verify table structure.
+EEL101,I,104,"Prerequisite(s): EEL101 (or equivalent), EEL201 (or equivalent)",Multiple course codes found on one line; verify table structure.
+EEL201,I,104,"Prerequisite(s): EEL101 (or equivalent), EEL201 (or equivalent)",Multiple course codes found on one line; verify table structure.
+EE621,I,104,"Overlap with: EE621 - 15%, EVL503 - 5%",Multiple course codes found on one line; verify table structure.
+EVL503,I,104,"Overlap with: EE621 - 15%, EVL503 - 5%",Multiple course codes found on one line; verify table structure.
+PHL101,I,110,Overlap with: PHL101 (10%) and EEL101 (10%),Multiple course codes found on one line; verify table structure.
+MAL101,I,116,"Prerequisite(s): EEL101 or equivalent, MAL101 or equivalent",Multiple course codes found on one line; verify table structure.
+IC151,I,131,"Overlap with: IC151 (5%), MML351 (5%), EE501 (5%), PHl502 (5%), ECL504 (10%),",Multiple course codes found on one line; verify table structure.
+MML351,I,131,"Overlap with: IC151 (5%), MML351 (5%), EE501 (5%), PHl502 (5%), ECL504 (10%),",Multiple course codes found on one line; verify table structure.
+EE501,I,131,"Overlap with: IC151 (5%), MML351 (5%), EE501 (5%), PHl502 (5%), ECL504 (10%),",Multiple course codes found on one line; verify table structure.
+KV260,I,132,"TMS320C6748, PYNQ-ZU, Kria KV260, and Xilinx Zynq UltraScale+ MPSoC ZCU104 Evaluation Kits;",Multiple course codes found on one line; verify table structure.
+ZCU104,I,132,"TMS320C6748, PYNQ-ZU, Kria KV260, and Xilinx Zynq UltraScale+ MPSoC ZCU104 Evaluation Kits;",Multiple course codes found on one line; verify table structure.
+DS601,I,135,Overlap with: EEL605 & DS601 (70%),Multiple course codes found on one line; verify table structure.
+LA322,I,137,"Overlap with: LA322 (60%), LA346 (10%)",Multiple course codes found on one line; verify table structure.
+LA346,I,137,"Overlap with: LA322 (60%), LA346 (10%)",Multiple course codes found on one line; verify table structure.
+LAL621,I,143,"Overlap with: LAL621 (10%), MA513 (10%), MA509 (5%)",Multiple course codes found on one line; verify table structure.
+MA513,I,143,"Overlap with: LAL621 (10%), MA513 (10%), MA509 (5%)",Multiple course codes found on one line; verify table structure.
+MA509,I,143,"Overlap with: LAL621 (10%), MA513 (10%), MA509 (5%)",Multiple course codes found on one line; verify table structure.
+LA702,I,146,"Overlap with: LA702 (100%), LAL247 (5%)",Multiple course codes found on one line; verify table structure.
+MEL211,I,149,Overlap with: MEL211 (15-20%); CYL504 (15-20%),Multiple course codes found on one line; verify table structure.
+MML552,I,149,"Overlap with: MML552 (15%), MML254 (20%)",Multiple course codes found on one line; verify table structure.
+MML254,I,149,"Overlap with: MML552 (15%), MML254 (20%)",Multiple course codes found on one line; verify table structure.
+PH513,I,151,"Overlap with: PH513 (60%), MML202 (10%)",Multiple course codes found on one line; verify table structure.
+MEL251,I,153,"Overlap with: MML204 (10%), MML501 (5%), MEL251 (20%), MEL656 (5%), MEL659 (5%)",Multiple course codes found on one line; verify table structure.
+MEL656,I,153,"Overlap with: MML204 (10%), MML501 (5%), MEL251 (20%), MEL656 (5%), MEL659 (5%)",Multiple course codes found on one line; verify table structure.
+MEL659,I,153,"Overlap with: MML204 (10%), MML501 (5%), MEL251 (20%), MEL656 (5%), MEL659 (5%)",Multiple course codes found on one line; verify table structure.
+PHL508,I,161,"Overlap with: PHL508 (10%), MML251 (15%), CYL500 (5%), MML202 (3%)",Multiple course codes found on one line; verify table structure.
+MEL658,I,162,"Overlap with: MML254 (20%), MEL658 (60%)",Multiple course codes found on one line; verify table structure.
+PHL607,I,164,"Overlap with: PHL607 (15%), PHL612 (30%), MML203 (5%), MML556 (5%), MML502 (10%),",Multiple course codes found on one line; verify table structure.
+PHL612,I,164,"Overlap with: PHL607 (15%), PHL612 (30%), MML203 (5%), MML556 (5%), MML502 (10%),",Multiple course codes found on one line; verify table structure.
+PHL511,I,164,"MML501 (15%), PHL511 (5%), MML504 (10%)",Multiple course codes found on one line; verify table structure.
+MA519,I,170,"Overlap with: CSL201 (10%), MA519 (100%)",Multiple course codes found on one line; verify table structure.
+ME212,I,171,"Overlap with: ME212 (20%), ME111 (10%)",Multiple course codes found on one line; verify table structure.
+ME111,I,171,"Overlap with: ME212 (20%), ME111 (10%)",Multiple course codes found on one line; verify table structure.
+MAL602,I,176,"Overlap with: MAL602 (8%), MAL610 (100%)",Multiple course codes found on one line; verify table structure.
+MAL610,I,176,"Overlap with: MAL602 (8%), MAL610 (100%)",Multiple course codes found on one line; verify table structure.
+MAL608,I,176,"Overlap with: MAL402 (5%), MAL403 (10%), MAL608 (100%).",Multiple course codes found on one line; verify table structure.
+MA611,I,176,"Overlap with: MAL403 (2.5%), MA611 (100%)",Multiple course codes found on one line; verify table structure.
+ME334,I,183,"Prerequisite(s): MEL232, ME334 - concurrent",Multiple course codes found on one line; verify table structure.
+MEL622,I,185,"Overlap with: MEL622 (19%), MEL501 (5%), DSL253 (50%), MAL403 (17%)",Multiple course codes found on one line; verify table structure.
+ME615,I,187,"Overlap with: MEL212 (2%), MEL313 (2%), ME615 (100%)",Multiple course codes found on one line; verify table structure.
+BML611,I,188,"Overlap with: MEL212 (7%), BML611 (27%)",Multiple course codes found on one line; verify table structure.
+ME232,I,191,Prerequisite(s): ME232/MEL231 (or equivalent),Multiple course codes found on one line; verify table structure.
+ME559,I,193,"Overlap with: MML501 (15%), MEL232 (5%), MEL659 (5%), MML204 (10%), ME559 (40%), ME151",Multiple course codes found on one line; verify table structure.
+ME151,I,193,"Overlap with: MML501 (15%), MEL232 (5%), MEL659 (5%), MML204 (10%), ME559 (40%), ME151",Multiple course codes found on one line; verify table structure.
+MT551,I,196,"Overlap with: MT551 (5%), EE202 (5%), and MT554 (5%)",Multiple course codes found on one line; verify table structure.
+EE202,I,196,"Overlap with: MT551 (5%), EE202 (5%), and MT554 (5%)",Multiple course codes found on one line; verify table structure.
+MT554,I,196,"Overlap with: MT551 (5%), EE202 (5%), and MT554 (5%)",Multiple course codes found on one line; verify table structure.
+MTL602,I,197,"Overlap with: MTL301 (8%), MTL602 (5%)",Multiple course codes found on one line; verify table structure.
+PHL613,I,203,"Overlap with: PHL613 (10%), MML556 (5%), MML351 (15%), PHL610 (15%)",Multiple course codes found on one line; verify table structure.
+PHL610,I,203,"Overlap with: PHL613 (10%), MML556 (5%), MML351 (15%), PHL610 (15%)",Multiple course codes found on one line; verify table structure.

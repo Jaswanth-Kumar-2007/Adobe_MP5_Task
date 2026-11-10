@@ -1,0 +1,22 @@
+﻿id   , name                                        , category               ,level,   parent, source_url                                                     , retrieved_on, source_type
+SK001, C programming                               , Programming            ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK002, Data structures                             , Computer Science       ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK003, Discrete mathematics and logic              , Mathematics            ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK004, Algorithm design and analysis               , Computer Science       ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK005, Computer organization                       , Computer Systems       ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK006, Probability and statistical inference       , Statistics             ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK007, Linear algebra and dimensionality reduction , Mathematics            ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK008, Data collection and preprocessing           , Data Science           ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK009, Exploratory data analysis                   , Data Science           ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK010, Data visualization                          , Data Science           ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK011, Statistical programming                     , Programming            ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK012, Machine learning model development          , Artificial Intelligence,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK013, Natural language processing                 , Artificial Intelligence,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK014, Image processing                            , Computing              ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK015, Big data processing                         , Data Engineering       ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK016, NoSQL data management                       , Data Engineering       ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK017, Database modelling and SQL                  , Data Engineering       ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK018, Artificial intelligence reasoning and search, Artificial Intelligence,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK019, Information security and cryptography       , Cybersecurity          ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK020, LLM-integrated software and agent workflows , Software Engineering   ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official
+SK021, Project research and technical reporting    , Research               ,     ,         , https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs, 2026-11-09  , official

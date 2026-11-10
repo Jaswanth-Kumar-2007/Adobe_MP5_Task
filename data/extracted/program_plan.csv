@@ -1,0 +1,47 @@
+semester,course_code,slot,source_url,retrieved_on,source_type
+I,CSL100,Course-1,Course_of_Study.pdf,2026-11-10,official_pdf
+I,CYP102,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+I,PHP102,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+I,MAL100,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+I,CYL100,Course-4,Course_of_Study.pdf,2026-11-10,official_pdf
+I,PHL101,Course-5,Course_of_Study.pdf,2026-11-10,official_pdf
+I,CYL101,Course-6,Course_of_Study.pdf,2026-11-10,official_pdf
+I,NCN100,Course-7,Course_of_Study.pdf,2026-11-10,official_pdf
+II,MEP102,Course-1,Course_of_Study.pdf,2026-11-10,official_pdf
+II,EEL101,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+II,PHP102,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+II,CYP102,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+II,MAL101,Course-4,Course_of_Study.pdf,2026-11-10,official_pdf
+II,ECL101,Course-5,Course_of_Study.pdf,2026-11-10,official_pdf
+II,BML101,Course-6,Course_of_Study.pdf,2026-11-10,official_pdf
+II,LAN103,Course-7,Course_of_Study.pdf,2026-11-10,official_pdf
+III,MAL403,Course-1,Course_of_Study.pdf,2026-11-10,official_pdf
+III,CSL201,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+III,CSL202,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+III,DSL201,Course-4,Course_of_Study.pdf,2026-11-10,official_pdf
+III,LAL100,Course-5,Course_of_Study.pdf,2026-11-10,official_pdf
+III,,Course-6: LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,CSL251,Course-1,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,CSL252,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,DSL251,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,DSP252,Course-4,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,DSL253,Course-5,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,LAL101,Course-6,Course_of_Study.pdf,2026-11-10,official_pdf
+IV,,Course-7: LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+V,DSP301,Course-1,Course_of_Study.pdf,2026-11-10,official_pdf
+V,CSL303,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+V,CSL304,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+V,,Course-4: PE,Course_of_Study.pdf,2026-11-10,official_pdf
+V,,Course-5: LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,DSL351,Course-1,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,DSP352,Course-2,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,DSP353,Course-3,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,DSQ401,Course-4,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,UGQ301,Course-5,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,CSP352,Course-6,Course_of_Study.pdf,2026-11-10,official_pdf
+VI,,Course-7: LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf
+VII,,Course-1: PE,Course_of_Study.pdf,2026-11-10,official_pdf
+VII,,Course-2: OE,Course_of_Study.pdf,2026-11-10,official_pdf
+VIII,,Course-1: PE,Course_of_Study.pdf,2026-11-10,official_pdf
+VIII,,Course-2: OE,Course_of_Study.pdf,2026-11-10,official_pdf
+VIII,,Course-3: LA Courses,Course_of_Study.pdf,2026-11-10,official_pdf

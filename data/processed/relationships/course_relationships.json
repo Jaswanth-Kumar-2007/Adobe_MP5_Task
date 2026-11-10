@@ -1,0 +1,2991 @@
+{
+  "course_relationships": {
+    "DSL251": {
+      "prerequisites": [
+        {
+          "course": "DSL251",
+          "requires": "DSL201",
+          "kind": "required",
+          "group": "AND",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSL251",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL251",
+          "skill": "SK007",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL251",
+          "skill": "SK008",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL251",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL251",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL251",
+          "skill": "SK017",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL251",
+          "skill": "SK021",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL251",
+          "topic": "Introduction to Data science workflow",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Data Collection and Exploratory Analysis",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Automated methods for data collection, Data and Visualization Models, Data wrangling and cleaning, and Exploratory data analysis",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Building Models for",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Classification, Clustering, Regression",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Model evaluation",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "statistical tests for significance of predictors",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Time-series Analysis",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Characteristics, Regression, Exploratory data analysis, ARIMA Models",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Visualization Design",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Introduction, Abstractions, Validation, Marks and Channels",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Visualization of Different Data Types",
+          "unit": "Topic 12",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Tabular Data, Multidimensional Data, Spatial Data, Graphs, Text Data",
+          "unit": "Topic 13",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Assorted Topics",
+          "unit": "Topic 14",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL251",
+          "topic": "Graphical Perception, Interaction dynamics for Visual Analysis, Using Space Effectively, Stacked Graphs, Geometry & Aesthetics.",
+          "unit": "Topic 15",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "IV",
+          "course_code": "DSL251",
+          "slot": "Course-3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": []
+    },
+    "DSL351": {
+      "prerequisites": [
+        {
+          "course": "DSL351",
+          "requires": "CSL303",
+          "kind": "required",
+          "group": "AND",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSL351",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL351",
+          "skill": "SK005",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL351",
+          "skill": "SK006",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL351",
+          "skill": "SK026",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL351",
+          "topic": "Introduction - Course Introduction, Motivation",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL351",
+          "topic": "NOSQL Databases - Different kinds of NOSQL databases and their use cases",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL351",
+          "topic": "Design of distributed program models and abstractions,- MapReduce, Dataflow and Vertex-centric models, for processing volume, velocity, and linked datasets, and for storing and querying over NoSQL datasets Translation of existing architectures to big data- Approaches and design patterns to translate existing data-intensive algorithms and analytics into these distributed programming abstractions. Distributed software architectures- Distributed software architectures, runtime and storage strategies used by Big Data platforms, such as Apache Hadoop, Spark, Storm, Giraph, and Hive to execute applications developed",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL351",
+          "topic": "using these models on commodity clusters and Clouds in a scalable manner",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL351",
+          "topic": "Performance Tuning for Big Data - Optimization and performance tradeoff of Big Data systems.",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "VI",
+          "course_code": "DSL351",
+          "slot": "Course-1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": []
+    },
+    "DSP352": {
+      "prerequisites": [
+        {
+          "course": "DSP352",
+          "requires": "CSL303",
+          "kind": "required",
+          "group": "AND",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSP352",
+          "skill": "SK005",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP352",
+          "skill": "SK006",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSP352",
+          "topic": "Map Reduce Basic Design patterns",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Word Count, Summarization, Indexing, Filtering, Top-K, Partitioning, Binning",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Map Reduce Advanced Design patterns",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Joins, Job Chaining, I/O Patterns",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Map Reduce Scheduling with YARN",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Hadoop Ecosystem",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Pig, Hive, Hbase",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Apache Spark",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Apache Cassandra",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "MongoDB",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP352",
+          "topic": "Complete end-to-end pipeline in project mode.",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "VI",
+          "course_code": "DSP352",
+          "slot": "Course-2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": []
+    },
+    "DSL253": {
+      "prerequisites": [
+        {
+          "course": "DSL253",
+          "requires": "MAL403",
+          "kind": "required",
+          "group": "AND",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSL253",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL253",
+          "topic": "Probability and statistics review",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL253",
+          "topic": "distributions",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL253",
+          "topic": "Sampling and Descriptive Statistics, Statistical measures",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL253",
+          "topic": "Estimation and Hypothesis Testing",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL253",
+          "topic": "Resampling Techniques, and Bootstrapping.",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "IV",
+          "course_code": "DSL253",
+          "slot": "Course-5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": []
+    },
+    "DSP301": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSP301",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP301",
+          "skill": "SK013",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP301",
+          "skill": "SK014",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP301",
+          "skill": "SK023",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSP301",
+          "topic": "Design and implementation of Al and machine learning models for image processing",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP301",
+          "topic": "Design and implementation of Al and machine learning models for speech processing",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP301",
+          "topic": "Design and implementation of Al and machine learning models for NLP",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP301",
+          "topic": "Design and implementation of Al and machine learning models for Game playing",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP301",
+          "topic": "Deploy machine learning models on mobile",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP301",
+          "topic": "Developing applications with Al/ML development board/kits.",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "V",
+          "course_code": "DSP301",
+          "slot": "Course-1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": [
+        {
+          "course_code": "DSP301",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSL353": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL353",
+          "skill": "SK005",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL353",
+          "topic": "Cryptography",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Cipher, hash function, signature schemes",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Computer Security",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Buffer/Heap overflow, malware, DDoS, social engineering, access control",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Network/Database Security",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Firewall, spoofing, VPN, IPSec, TOR, SQL injection, cross-site scripting, network traffic analysis, intrusion detection",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Policy",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL353",
+          "topic": "Data protection regulation, sensitive personal identity, digital rights.",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSQ401": {
+      "prerequisites": [],
+      "skills": [],
+      "topics": [
+        {
+          "course_code": "DSQ401",
+          "topic": "Research and development oriented projects based on problems of practical and theoretical interest. Students are generally expected to work towards the goals set by the project supervisor. Evaluation is done based on regular presentations, written reports.",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "VI",
+          "course_code": "DSQ401",
+          "slot": "Course-4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": []
+    },
+    "DSP505": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSP505",
+          "skill": "SK001",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK005",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK006",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK007",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK008",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK013",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK018",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK020",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK021",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP505",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSP505",
+          "topic": "Basic Python Coding and Data handling - Lists, Dictionary, Tuples, Sets, Functions/Recursion, File Handling, Numpy, Pandas",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Visualization and Dimensionality - Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Basic ML - SKLearn - SVM, DT, RF, LR",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Deep Learning - Running LSTM, CNN, Transformer using Pytorch/Tensorflow",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Low Code Data Analysis and Visualization Tools",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Tableau/Alteryx",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Graph Analysis - NetworkX, Gephi and Neo4J",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Data Storage and Search",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "SQL, MongoDB, ElasticSearch",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Data Scraping – Crawling using API, Scraping Html/CSS, Legality",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP505",
+          "topic": "Big Data handling - Map-Reduce, Hadoop.",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DSP505",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSL501": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL501",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK013",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK015",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK026",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL501",
+          "skill": "SK027",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL501",
+          "topic": "Types of machine learning- Unsupervised, Supervised Learning- Regression, Classification, Reinforcement Learning",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Linear models",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Linear Regression- Logistic Regression- Generalized Linear Models- Sparse Modeling and Estimation-Regularization-Evaluating Machine Learning algorithms and Model Selection",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Support Vector Machines",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Optimization Formulation, Nonlinearity and Kernel Methods- Multi-class/Structured Outputs",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Decision Trees",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Training and Testing, Entropy Minimization, Regularization",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Ensemble Methods",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Boosting, Bagging, Random Forests",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Deep Learning",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "MultiLayer Perceptrons, Optimizers, Regularization, Feature. Representation Learning",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Deep Computer Vision",
+          "unit": "Topic 12",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "CNN architectures, Segmentation",
+          "unit": "Topic 13",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Recurrent Neural Networks",
+          "unit": "Topic 14",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Generative Models",
+          "unit": "Topic 15",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Autoencoders, Generative Models, Diffusion Models",
+          "unit": "Topic 16",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Reinforcement learning",
+          "unit": "Topic 17",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL501",
+          "topic": "Policy Search, Markov Decision process, Q-Learning.",
+          "unit": "Topic 18",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DSL501",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DST799": {
+      "prerequisites": [],
+      "skills": [],
+      "topics": [],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DST799",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSL502": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL502",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL502",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL502",
+          "skill": "SK010",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL502",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL502",
+          "skill": "SK026",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL502",
+          "topic": "Brief overview of Linear algebra",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL502",
+          "topic": "Vector Spaces and Subspaces, Orthogonality, Systems of Linear Equations Eigen decomposition and Diagonalization, Low rank Matrix Approximation, Principal component analysis, Matrix factorisation",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL502",
+          "topic": "Optimization",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL502",
+          "topic": "Optimization of Univariate and multivariate function, Fitting model to Data, Linear programming, Gradient Descent, Stochastic Gradient Descent",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL502",
+          "topic": "Probability and Statistic",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL502",
+          "topic": "Probability and Random Variables, Discrete and Continuous Probabilities, Density function and estimation, Expected Value, Variance, Joint, Marginal, and Conditional Distributions, Bayes’ Rule, Statistical Independence, Model Given Data. Transformation of random variables. Geometry of high-dimensional space.",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DSL502",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSL201": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL201",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL201",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL201",
+          "skill": "SK010",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL201",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL201",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL201",
+          "skill": "SK026",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL201",
+          "topic": "Probability review",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL201",
+          "topic": "Bayes Rule and its connection to inference, various sampling methods, Modern PAC analysis",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL201",
+          "topic": "Linear Algebra Review and Distance metrics",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL201",
+          "topic": "Geometry of high-dimensional space, distance metrics used for numerical and text data. Locality sensitive hashing (LSH). Matrix approximation techniques: Eigenvalues and Eigenvectors, Eigen decomposition and Diagonalization, Principal Component Analysis, SVD and dimensionality reduction, Multidimensional Scaling. Unitary transform: Fourier transform and its application. Regression and Continuous Optimization: Linear regression gradient descent, Fitting a Model to Data. Density Estimation: Parametric, parameter learning using maximum likelihood, Nonparametric approach, Parzen window.",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "III",
+          "course_code": "DSL201",
+          "slot": "Course-4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": [
+        {
+          "course_code": "DSL201",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSP252": {
+      "prerequisites": [
+        {
+          "course": "DSP252",
+          "requires": "DSL201",
+          "kind": "required",
+          "group": "AND",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSP252",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK005",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK008",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK013",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK014",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK017",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK018",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK020",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK021",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSP252",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSP252",
+          "topic": "Data handling - Numpy, Pandas",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Data Scraping & Preprocessing – Crawling using API, Scraping Html/CSS, Beautiful Soup, Legality",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Visualization and Dimensionality - Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Time Series - Time series Modelling (ARMA, ARIMA) & Visualization",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Basic ML - SKLearn - Training, Testing, Validation, SVM, DT, RF, LR",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Basic NLP - Spelling Correction, POS Tagging, Sentiment Analysis, Word Vectors, Application",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Basic Image Processing - Image loading, Transformations, Denoising, Edge Detection, Application",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Graph Analysis - NetworkX, Gephi and Neo4J",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "Data Storage and Search",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSP252",
+          "topic": "SQL, MongoDB, Elastic Search.",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [
+        {
+          "semester": "IV",
+          "course_code": "DSP252",
+          "slot": "Course-4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "eligibility": []
+    },
+    "DSQ402": {
+      "prerequisites": [],
+      "skills": [],
+      "topics": [
+        {
+          "course_code": "DSQ402",
+          "topic": "The student are expected to work towards the goals set in DSQ401. At the end of the project students are expected to demonstrate a solution and possible future work on the same problem. Students need to submit a report outlining the details of the problem, including a literature survey and various results obtained along with their solutions.",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DSQ402",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSL503": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL503",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK008",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK010",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK017",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK018",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL503",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL503",
+          "topic": "Near Neighbor Search in High Dimensional Data, Locality Sensitive Hashing (LSH), Dimensionality reduction, Clustering of High Dimensional Data, Cluster Visualization. Network Analysis, influence maximization",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL503",
+          "topic": "disease outbreak detection, social network analysis. Representation learning and Graph Neural Networks",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL503",
+          "topic": "Label Propagation, Heterogenous Graphs, Scaling up GNNs on large graphs",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL503",
+          "topic": "Reasoning over Knowledge Graphs. Advanced techniques for Time Series analysis",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL503",
+          "topic": "Motifs, Anomaly detection, Matrix Profile Technique, Visualization of Large Time Series Data. Streaming Algorithms: Stream Data Model, Stream Queries, Sampling, Bloom Filters, Moment Estimation, Count-Distinct, Counting Ones in a Window, Decaying Windows.",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL504": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL504",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL504",
+          "skill": "SK014",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL504",
+          "topic": "Basic Text Processing",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Tokenization, Stemming, Spelling Correction",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Language Modelling",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "N-grams, smoothing",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Morphology, Parts of Speech Tagging",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Syntax",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "PCFGs, Dependency Parsing",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Semantics",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Topic Models",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Distributional Semantics",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Lexical Semantics, Word Sense Disambiguation, Word Vectors",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Deep Learning for NLP",
+          "unit": "Topic 12",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "Basic and Advanced Models (Seq-to-Seq, CBN, BERT) Information Extraction and NLP tasks: Relation extraction",
+          "unit": "Topic 13",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL504",
+          "topic": "named entity recognition, coreference resolution, sentiment analysis, document summarization.",
+          "unit": "Topic 14",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DSL504",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI/MT",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    },
+    "DSL506": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL506",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL506",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL506",
+          "skill": "SK013",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL506",
+          "skill": "SK015",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL506",
+          "skill": "SK027",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL506",
+          "topic": "Course Overview and Motivation",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Introduction to Image Formation, Capture and Representation",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Linear Filtering, Correlation, Convolution. Visual Features and Representations",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Edge, Blobs, Corner Detection",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Scale Space and Scale Selection",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "SIFT, SURF",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "HoG, LBP, etc. Visual Matching",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Bag-of-words, VLAD",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "RANSAC, Hough transform",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Pyramid Matching",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Optical Flow. Convolutional Neural Networks (CNNs)",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Introduction to CNNs",
+          "unit": "Topic 12",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Evolution of CNN Architectures",
+          "unit": "Topic 13",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "AlexNet, ZFNet, VGG, InceptionNets, ResNets, DenseNets. CNNs for Recognition, Verification, Detection, Segmentation: CNNs for Recognition and Verification (Siamese Networks, Triplet Loss, Ranking Loss)",
+          "unit": "Topic 14",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "CNNs for Detection",
+          "unit": "Topic 15",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "R-CNN, Fast R-CNN, YOLO",
+          "unit": "Topic 16",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "CNNs for Segmentation",
+          "unit": "Topic 17",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "FCN, SegNet, U-Net, Mask-RCNN. Recurrent Neural Networks (RNNs): Review of RNNs",
+          "unit": "Topic 18",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "CNN+ RNN Models for Video Understanding",
+          "unit": "Topic 19",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Spatio-temporal Models, Action/Activity Recognition. Attention Models: Introduction to Attention Models in Vision",
+          "unit": "Topic 20",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Vision and Language",
+          "unit": "Topic 21",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Image Captioning, Visual QA, Visual Dialog",
+          "unit": "Topic 22",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Spatial Transformers",
+          "unit": "Topic 23",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Transformer Networks Deep Generative Models",
+          "unit": "Topic 24",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Review of (Popular) Deep Generative Models: GANs, VAEs",
+          "unit": "Topic 25",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Other Generative Models",
+          "unit": "Topic 26",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "PixelRNNs, NADE, Normalizing Flows, etc. Variants and Applications of Generative Models in Vision: Applications: Image Editing, lnpainting, Superresolution, Variants: CycleGANs, Progressive GANs, StackGANs, Pix2Pix, etc. Recent Trends: Zero-shot, One-shot, Few-shot Learning",
+          "unit": "Topic 27",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Self-supervised Learning",
+          "unit": "Topic 28",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL506",
+          "topic": "Reinforcement Learning in Vision.",
+          "unit": "Topic 29",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL507": {
+      "prerequisites": [
+        {
+          "course": "DSL507",
+          "requires": "DSL502",
+          "kind": "required",
+          "group": "OR",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course": "DSL507",
+          "requires": "DSL201",
+          "kind": "required",
+          "group": "OR",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSL507",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL507",
+          "skill": "SK010",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL507",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL507",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL507",
+          "skill": "SK018",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL507",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL507",
+          "topic": "Module 1",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL507",
+          "topic": "Introduction to Brain Connectivity : Brain structure vs. function, Types of connectivity: Structural, functional, and effective Relevance in neuropsychiatric disorders (e.g., MDD, ADHD, etc.). Module 2: Neuroimaging Fundamentals : Overview of Neuroimaging modalities such fMRI, EEG, MEG, fNIRS, PET etc. Vascular System of the brain, Coupling of Blood flow and Neuronal activity, BOLD fMRI signal and its correlation with Neuronal signal, Linearity of Hemodynamic response. Module 3: Preprocessing of fMRI: Preprocessing pipeline (motion correction, registration, filtering), Atlases: AAL, Schaefer, Brainnetome, Experimental Design. Module 4: Experimental designs : Block design, Event-related design, Mixed designs (hybrid of block and event-related), Stimulus and Task Design, Experimental Conditions, Data Acquisition Considerations. Module 5: Regression Analysis: Use of general linear model, Modeling of Neuronal activity. Intersubject analyses. Data exploration approaches such as PCA, ICA and Partial least squares. Module 6: Functional connectivity FC matrices: construction and interpretation, Static vs. dynamic connectivity, Time-varying connectivity, Clustering and state-based analysis. Module 7: Network Science for Connectomics: Graph theory fundamentals (nodes, edges, centrality, modularity), Brain network metrics (small-worldness, efficiency, hubs), Community detection (Louvain, Infomap). Module 8: Advanced Topics: Deep learning for FC, Individual fingerprinting & functional gradients, Dynamic Mode Decomposition (DMD), Brain Stimulation and neurofeedback and its effect in Brain Functional Connectivity.",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL515": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL515",
+          "skill": "SK001",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK003",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK005",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK006",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK008",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK018",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK020",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK021",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK022",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK024",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL515",
+          "skill": "SK027",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL515",
+          "topic": "Python Basics - Operators, Logic, Lists, Functions",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Python File Handling – File Handling, Intermediate Python – Dictionary, Tuples, Sets, Comprehensions, Recursion",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Coding Environment and Software Management – Package Management, IDE, Git. Object Oriented Python – Classes and Objects, Containers, Inheritance",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Programming for Data Storage and Retrieval",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "SQL, MongoDB, ElasticSearch",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Data Scrapping – Crawling using API, Scraping HTML/CSS, Legality",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Data Visualization and Dimensionality Reduction – Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Programming for Graph Analysis – NetworkX, Gephi and Neo4J",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "LLMs and Co- pilots for Coding",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL515",
+          "topic": "Big Data handling – Map-Reduce, Hadoop.",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL601": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL601",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL601",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL601",
+          "skill": "SK014",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL601",
+          "skill": "SK016",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL601",
+          "skill": "SK020",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL601",
+          "topic": "Document Indexing",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL601",
+          "topic": "Indexing schemes, Storage and Index Compression. Retrieval Models: Boolean Retrieval, Tolerant Retrieval, Vector Space Retrieval. Performance Evaluation: MAP, F1score, AUC-ROC, NDCG. Probabilistic IR and Language Modelling: Probabilistic Ranking Principle, Binary Independence Model, BM25, Language Model based IR. Relevance Feedback & Query Expansion: Rocchio relevance feedback, Pseudo Relevance Feedback, Wordnet based Query Expansion, Co-occurrence based query expansion. Text Classification & Clustering: Naive Bayes, Rocchio Classification, KNN, K means clustering, Agglomerative Clustering. Web Information Retrieval: PageRank, HITS, Web crawling. Neural IR: Neural Retrieval Models, Learning to rank. Advanced Topics: Question answering, Recommender Systems, Explainability in IR, Bias in IR, Multilingual IR.",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL602": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL602",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL602",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL602",
+          "skill": "SK023",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL602",
+          "topic": "Review of digital signal processing",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL602",
+          "topic": "Discrete-time signals and systems, transform representation of signals and systems, auditory models, lossless tube models fundamentals of digital filters, sampling. Fundamentals of human hearing and speech perception, Speech production, short-time Fourier transform, acoustic phonetics, Anatomy and functions of the ear, the perception of sound, auditory models, lossless tube models. Time-domain and Frequency-domain methods for speech processing Short-time analysis (energy, magnitude, zero-crossing rate, autocorrelation), Discrete-time Fourier analysis, short-time Fourier analysis, spectrograms, Overlap-add method of synthesis, filter-bank summation method of synthesis. Cepstrum and homomorphic speech processing Homomorphic analysis, computing the short time cepstrum and the complex cepstrum, cepstrum analysis of all-pole models, cepstrum distance measures. Linear predictive analysis of speech Basic ideas, gain computation, frequency-domain interpretation, solving LPC equations, the prediction error signal. representations of LP. Algorithms for estimating speech parameters Median smoothing, speech-background discrimination, pitch period estimation, formant estimation. Applications: speech recognition, speech enhancement, speaker recognition, Hidden Markov models for speech recognition, statistical methods for speech enhancement, factor analysis for speaker recognition.",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL604": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL604",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK011",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK013",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK017",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK019",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK024",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK025",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL604",
+          "skill": "SK026",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL604",
+          "topic": "Introductory Topics",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL604",
+          "topic": "Introduction to Internet of Things (loT) - Edge computing paradigms-Introduction to Machine Learning- Introduction to Neural Networks. Data management: Data Privacy, Scalability. Predictive analysis to support edge application deployment. Image Classification: Applications - Convolutional Neural Networks. Time Series Analysis: Applications - Model Training. Audio Classification: Applications - MFCC- Model Training. Optimization: Energy Optimization - Latency Optimization - Memory Optimization. Debugging. Privacy, Security and Deployment. Integrating cloud, loT, edge infrastructures: System Modeling and Research Challenges in federating edge resources.",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL605": {
+      "prerequisites": [
+        {
+          "course": "DSL605",
+          "requires": "DSL504",
+          "kind": "required",
+          "group": "AND",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSL605",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL605",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL605",
+          "skill": "SK014",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL605",
+          "skill": "SK023",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL605",
+          "skill": "SK027",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL605",
+          "topic": "Introduction to Natural Language Processing",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL605",
+          "topic": "Language and Types of Language, Phonetics, Phonology, Morphology, Syntax, Semantics, Pragmatics, Discourse Analysis, WordNet, Tokens, Types, BPE, tf-idf, CBOW, Gram-based model, Similarities, Conditional Generation, Document Level Analysis. Introduction to Deep Learning: Discriminative and Generative models, Models with Latent Random Variables, Teacher forcing, Encoder-decoder models, Attention Mechanisms-Local, Global, Soft, Chunk, Self and Multi-head, ELMo, BERT, BART, GPT, Advanced Search, Adversarial Methods. Handling Low Resource: Data Augmentations, Fine-tuning, Transfer Learning, Meta Learning, Zero- Shot Learning, Multi-task, Multi-domain and Multi-lingual Learning, Prompting, Bias and Fairness. Applications of NLP: Opinion Mining, Sequence Labelling, Machine Translation- Inter-lingua, Statistical and Neural, Speech Recognition and Synthesis, Knowledge Base and Reasoning.",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL606": {
+      "prerequisites": [],
+      "skills": [
+        {
+          "course": "DSL606",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL606",
+          "skill": "SK008",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL606",
+          "skill": "SK012",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL606",
+          "skill": "SK014",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL606",
+          "skill": "SK019",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL606",
+          "topic": "Privacy of data-Differentially Private ML. Federated learning Convergence Analysis of Federated Learning Algorithms. Biases and Fairness",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL606",
+          "topic": "Fair representation learning-fairness through input manipulation-Fair NLP-Fairness in vision representations-Fair causal reasoning. Interpretability and transparency: feature interaction for interpretability-Example and visualization-based methods- interpreting deep neural networks.",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": []
+    },
+    "DSL608": {
+      "prerequisites": [
+        {
+          "course": "DSL608",
+          "requires": "CSL304",
+          "kind": "required",
+          "group": "OR",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course": "DSL608",
+          "requires": "CS550",
+          "kind": "required",
+          "group": "OR",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course": "DSL608",
+          "requires": "DSL501",
+          "kind": "required",
+          "group": "OR",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course": "DSL608",
+          "requires": "MAL403",
+          "kind": "required",
+          "group": "OR",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "skills": [
+        {
+          "course": "DSL608",
+          "skill": "SK004",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL608",
+          "skill": "SK009",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL608",
+          "skill": "SK015",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        },
+        {
+          "course": "DSL608",
+          "skill": "SK026",
+          "depth": "",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "syllabus_keyword_mapping"
+        }
+      ],
+      "topics": [
+        {
+          "course_code": "DSL608",
+          "topic": "Module 1 RL Foundations & Dynamic Programming - Theory",
+          "unit": "Topic 1",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "Agent-environment-reward framework, Markov Decision Processes: returns, value functions and Bellman equations: policy evaluation, policy improvement, policy iteration and value iteration. Lab: Build a GridWorld/FrozenLake MDP",
+          "unit": "Topic 2",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "implement policy iteration and value iteration",
+          "unit": "Topic 3",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "visualise value functions and optimal policy. Module 2 Monte Carlo & Temporal Difference Methods - Theory",
+          "unit": "Topic 4",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "Monte Carlo prediction and control- on-policy vs off-policy learning (brief importance sampling): TD(O), SARSA, Q-learning. Lab: Tabular MC control, SARSA and Q-learning on FrozenLake/Taxi/CliffWalking",
+          "unit": "Topic 5",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "compare on-policy vs off-policy behaviour. Module 3 DeepRL",
+          "unit": "Topic 6",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "Value-Based & Policy-Gradient Foundations - Theory: Function approximation, neural-network value functions: Deep Q-Networks: experience replay and target networks, policy- gradient theorem - REINFORCE. Lab: DQN on CartPole to LunarLander (replay buffer + target net)",
+          "unit": "Topic 7",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "REINFORCE on CartPole. Module 4 Actor-Critic & Advanced Deep RL - Theory",
+          "unit": "Topic 8",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "Advantage Actor-Critic (A2C): deterministic policy gradients and DDPG - TD3 - Soft Actor-Critic and entropy regularization, exploration strategies (ε- greedy, entropy-based). Lah: A2C on a discrete task",
+          "unit": "Topic 9",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "SAC or TD3 on Pendulum I continuous control (Stable-Baselines3). Module 5 Model-Based, Multi-Agent, Exploration & Safe RL - Theory",
+          "unit": "Topic 10",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "Environment-dynamics modeling and planning (Dyna-Q) - cooperative vs competitive MARL: MADDPG and QMIX (overview) - curiosity- driven exploration - meta-RL and transfer (brief) - safe/constrained RL. Lab: Dyna-Q planning",
+          "unit": "Topic 11",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "one multi-agent or curiosity-driven task (PettingZoo or exploration-bonus agent). Module 6 Advanced RL",
+          "unit": "Topic 12",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "PPO, DPO & RLHF - Theory: Trust regions and Proximal Policy Optimization - preference-based RL-Reinforcement Learning from Human Feedback: reward modeling and the RLHF pipeline- Direct Preference Optimization - alignment of large models. Lab: PPO (from scratch or SB3) on LunarLander/custom env",
+          "unit": "Topic 13",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        },
+        {
+          "course_code": "DSL608",
+          "topic": "mini RLHF/DPO pipeline on a small language model using HuggingFace TRL with a tiny preference dataset. Courses offered in the Discipline of Electric Vehicle Technology",
+          "unit": "Topic 14",
+          "source_url": "Course_of_Study.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ],
+      "program_plan": [],
+      "eligibility": [
+        {
+          "course_code": "DSL608",
+          "programme": "DSAI",
+          "eligibility_status": "eligible",
+          "conditions": "Official catalogue discipline: CSE - DSAI",
+          "source_url": "List_of_courses_V4.pdf",
+          "retrieved_on": "2026-11-10",
+          "source_type": "official_pdf"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_courses": 25,
+    "courses_with_prerequisites": 8,
+    "courses_with_skills": 22,
+    "courses_with_topics": 24,
+    "courses_with_program_plan": 8,
+    "courses_with_eligibility": 9
+  }
+}

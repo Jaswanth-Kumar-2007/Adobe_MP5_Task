@@ -1,0 +1,29 @@
+id,name,category,level,parent,source_url,retrieved_on,source_type
+SK001,Python Programming,Programming,,,,2026-11-10,curated_taxonomy
+SK002,C++ Programming,Programming,,,,2026-11-10,curated_taxonomy
+SK003,Data Structures,Computer Science,,,,2026-11-10,curated_taxonomy
+SK004,Algorithms,Computer Science,,,,2026-11-10,curated_taxonomy
+SK005,Database Management,Data Engineering,,,,2026-11-10,curated_taxonomy
+SK006,Big Data Processing,Data Engineering,,,,2026-11-10,curated_taxonomy
+SK007,Data Analytics,Data Science,,,,2026-11-10,curated_taxonomy
+SK008,Data Visualization,Data Science,,,,2026-11-10,curated_taxonomy
+SK009,Statistical Analysis,Mathematics and Statistics,,,,2026-11-10,curated_taxonomy
+SK010,Linear Algebra,Mathematics and Statistics,,,,2026-11-10,curated_taxonomy
+SK011,Machine Learning,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK012,Deep Learning,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK013,Computer Vision,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK014,Natural Language Processing,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK015,Reinforcement Learning,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK016,Information Retrieval,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK017,Time Series Analysis,Data Science,,,,2026-11-10,curated_taxonomy
+SK018,Graph Analytics,Data Science,,,,2026-11-10,curated_taxonomy
+SK019,Information Security,Computer Science,,,,2026-11-10,curated_taxonomy
+SK020,Web Scraping and Data Collection,Data Engineering,,,,2026-11-10,curated_taxonomy
+SK021,Data Preprocessing,Data Science,,,,2026-11-10,curated_taxonomy
+SK022,Dimensionality Reduction,Data Science,,,,2026-11-10,curated_taxonomy
+SK023,Speech Processing,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK024,Software Development,Software Engineering,,,,2026-11-10,curated_taxonomy
+SK025,Edge Computing and IoT,Computer Science,,,,2026-11-10,curated_taxonomy
+SK026,Optimization,Mathematics and Statistics,,,,2026-11-10,curated_taxonomy
+SK027,Generative AI,Artificial Intelligence,,,,2026-11-10,curated_taxonomy
+SK028,Data Mining,Data Science,,,,2026-11-10,curated_taxonomy

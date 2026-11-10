@@ -1,0 +1,7 @@
+severity,check,record,message
+WARN,external_prerequisite,MAL403,Prerequisite referenced by DSL253 is not in this course collection.
+WARN,external_prerequisite,CSL303,Prerequisite referenced by DSL351 is not in this course collection.
+WARN,external_prerequisite,CSL303,Prerequisite referenced by DSP352 is not in this course collection.
+WARN,external_prerequisite,CSL304,Prerequisite referenced by DSL608 is not in this course collection.
+WARN,external_prerequisite,CS550,Prerequisite referenced by DSL608 is not in this course collection.
+WARN,external_prerequisite,MAL403,Prerequisite referenced by DSL608 is not in this course collection.

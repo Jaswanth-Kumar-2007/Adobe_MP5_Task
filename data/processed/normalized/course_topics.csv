@@ -1,0 +1,186 @@
+course_code,topic,unit,source_url,retrieved_on,source_type
+DSL201,Probability review,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL201,"Bayes Rule and its connection to inference, various sampling methods, Modern PAC analysis",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL201,Linear Algebra Review and Distance metrics,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL201,"Geometry of high-dimensional space, distance metrics used for numerical and text data. Locality sensitive hashing (LSH). Matrix approximation techniques: Eigenvalues and Eigenvectors, Eigen decomposition and Diagonalization, Principal Component Analysis, SVD and dimensionality reduction, Multidimensional Scaling. Unitary transform: Fourier transform and its application. Regression and Continuous Optimization: Linear regression gradient descent, Fitting a Model to Data. Density Estimation: Parametric, parameter learning using maximum likelihood, Nonparametric approach, Parzen window.",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Introduction to Data science workflow,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Data Collection and Exploratory Analysis,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,"Automated methods for data collection, Data and Visualization Models, Data wrangling and cleaning, and Exploratory data analysis",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Building Models for,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,"Classification, Clustering, Regression",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Model evaluation,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,statistical tests for significance of predictors,Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Time-series Analysis,Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,"Characteristics, Regression, Exploratory data analysis, ARIMA Models",Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Visualization Design,Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,"Introduction, Abstractions, Validation, Marks and Channels",Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Visualization of Different Data Types,Topic 12,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,"Tabular Data, Multidimensional Data, Spatial Data, Graphs, Text Data",Topic 13,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,Assorted Topics,Topic 14,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL251,"Graphical Perception, Interaction dynamics for Visual Analysis, Using Space Effectively, Stacked Graphs, Geometry & Aesthetics.",Topic 15,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Data handling - Numpy, Pandas",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Data Scraping & Preprocessing – Crawling using API, Scraping Html/CSS, Beautiful Soup, Legality",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Visualization and Dimensionality - Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Time Series - Time series Modelling (ARMA, ARIMA) & Visualization",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Basic ML - SKLearn - Training, Testing, Validation, SVM, DT, RF, LR",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Basic NLP - Spelling Correction, POS Tagging, Sentiment Analysis, Word Vectors, Application",Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Basic Image Processing - Image loading, Transformations, Denoising, Edge Detection, Application",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"Graph Analysis - NetworkX, Gephi and Neo4J",Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,Data Storage and Search,Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP252,"SQL, MongoDB, Elastic Search.",Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL253,Probability and statistics review,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL253,distributions,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL253,"Sampling and Descriptive Statistics, Statistical measures",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL253,Estimation and Hypothesis Testing,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL253,"Resampling Techniques, and Bootstrapping.",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of Al and machine learning models for image processing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of Al and machine learning models for speech processing,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of Al and machine learning models for NLP,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Design and implementation of Al and machine learning models for Game playing,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Deploy machine learning models on mobile,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP301,Developing applications with Al/ML development board/kits.,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL351,"Introduction - Course Introduction, Motivation",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL351,NOSQL Databases - Different kinds of NOSQL databases and their use cases,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL351,"Design of distributed program models and abstractions,- MapReduce, Dataflow and Vertex-centric models, for processing volume, velocity, and linked datasets, and for storing and querying over NoSQL datasets Translation of existing architectures to big data- Approaches and design patterns to translate existing data-intensive algorithms and analytics into these distributed programming abstractions. Distributed software architectures- Distributed software architectures, runtime and storage strategies used by Big Data platforms, such as Apache Hadoop, Spark, Storm, Giraph, and Hive to execute applications developed",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL351,using these models on commodity clusters and Clouds in a scalable manner,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL351,Performance Tuning for Big Data - Optimization and performance tradeoff of Big Data systems.,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Map Reduce Basic Design patterns,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,"Word Count, Summarization, Indexing, Filtering, Top-K, Partitioning, Binning",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Map Reduce Advanced Design patterns,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,"Joins, Job Chaining, I/O Patterns",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Map Reduce Scheduling with YARN,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Hadoop Ecosystem,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,"Pig, Hive, Hbase",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Apache Spark,Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Apache Cassandra,Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,MongoDB,Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP352,Complete end-to-end pipeline in project mode.,Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,Cryptography,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,"Cipher, hash function, signature schemes",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,Computer Security,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,"Buffer/Heap overflow, malware, DDoS, social engineering, access control",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,Network/Database Security,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,"Firewall, spoofing, VPN, IPSec, TOR, SQL injection, cross-site scripting, network traffic analysis, intrusion detection",Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,Policy,Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL353,"Data protection regulation, sensitive personal identity, digital rights.",Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSQ401,"Research and development oriented projects based on problems of practical and theoretical interest. Students are generally expected to work towards the goals set by the project supervisor. Evaluation is done based on regular presentations, written reports.",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSQ402,"The student are expected to work towards the goals set in DSQ401. At the end of the project students are expected to demonstrate a solution and possible future work on the same problem. Students need to submit a report outlining the details of the problem, including a literature survey and various results obtained along with their solutions.",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"Types of machine learning- Unsupervised, Supervised Learning- Regression, Classification, Reinforcement Learning",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Linear models,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Linear Regression- Logistic Regression- Generalized Linear Models- Sparse Modeling and Estimation-Regularization-Evaluating Machine Learning algorithms and Model Selection,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Support Vector Machines,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"Optimization Formulation, Nonlinearity and Kernel Methods- Multi-class/Structured Outputs",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Decision Trees,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"Training and Testing, Entropy Minimization, Regularization",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Ensemble Methods,Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"Boosting, Bagging, Random Forests",Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Deep Learning,Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"MultiLayer Perceptrons, Optimizers, Regularization, Feature. Representation Learning",Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Deep Computer Vision,Topic 12,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"CNN architectures, Segmentation",Topic 13,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Recurrent Neural Networks,Topic 14,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Generative Models,Topic 15,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"Autoencoders, Generative Models, Diffusion Models",Topic 16,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,Reinforcement learning,Topic 17,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL501,"Policy Search, Markov Decision process, Q-Learning.",Topic 18,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL502,Brief overview of Linear algebra,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL502,"Vector Spaces and Subspaces, Orthogonality, Systems of Linear Equations Eigen decomposition and Diagonalization, Low rank Matrix Approximation, Principal component analysis, Matrix factorisation",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL502,Optimization,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL502,"Optimization of Univariate and multivariate function, Fitting model to Data, Linear programming, Gradient Descent, Stochastic Gradient Descent",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL502,Probability and Statistic,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL502,"Probability and Random Variables, Discrete and Continuous Probabilities, Density function and estimation, Expected Value, Variance, Joint, Marginal, and Conditional Distributions, Bayes’ Rule, Statistical Independence, Model Given Data. Transformation of random variables. Geometry of high-dimensional space.",Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL503,"Near Neighbor Search in High Dimensional Data, Locality Sensitive Hashing (LSH), Dimensionality reduction, Clustering of High Dimensional Data, Cluster Visualization. Network Analysis, influence maximization",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL503,"disease outbreak detection, social network analysis. Representation learning and Graph Neural Networks",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL503,"Label Propagation, Heterogenous Graphs, Scaling up GNNs on large graphs",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL503,Reasoning over Knowledge Graphs. Advanced techniques for Time Series analysis,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL503,"Motifs, Anomaly detection, Matrix Profile Technique, Visualization of Large Time Series Data. Streaming Algorithms: Stream Data Model, Stream Queries, Sampling, Bloom Filters, Moment Estimation, Count-Distinct, Counting Ones in a Window, Decaying Windows.",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Basic Text Processing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"Tokenization, Stemming, Spelling Correction",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Language Modelling,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"N-grams, smoothing",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"Morphology, Parts of Speech Tagging",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Syntax,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"PCFGs, Dependency Parsing",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Semantics,Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Topic Models,Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Distributional Semantics,Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"Lexical Semantics, Word Sense Disambiguation, Word Vectors",Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,Deep Learning for NLP,Topic 12,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"Basic and Advanced Models (Seq-to-Seq, CBN, BERT) Information Extraction and NLP tasks: Relation extraction",Topic 13,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL504,"named entity recognition, coreference resolution, sentiment analysis, document summarization.",Topic 14,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Basic Python Coding and Data handling - Lists, Dictionary, Tuples, Sets, Functions/Recursion, File Handling, Numpy, Pandas",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Visualization and Dimensionality - Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Basic ML - SKLearn - SVM, DT, RF, LR",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Deep Learning - Running LSTM, CNN, Transformer using Pytorch/Tensorflow",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,Low Code Data Analysis and Visualization Tools,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,Tableau/Alteryx,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Graph Analysis - NetworkX, Gephi and Neo4J",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,Data Storage and Search,Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"SQL, MongoDB, ElasticSearch",Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Data Scraping – Crawling using API, Scraping Html/CSS, Legality",Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSP505,"Big Data handling - Map-Reduce, Hadoop.",Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Course Overview and Motivation,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Introduction to Image Formation, Capture and Representation",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Linear Filtering, Correlation, Convolution. Visual Features and Representations",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Edge, Blobs, Corner Detection",Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Scale Space and Scale Selection,Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"SIFT, SURF",Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"HoG, LBP, etc. Visual Matching",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Bag-of-words, VLAD",Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"RANSAC, Hough transform",Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Pyramid Matching,Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Optical Flow. Convolutional Neural Networks (CNNs),Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Introduction to CNNs,Topic 12,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Evolution of CNN Architectures,Topic 13,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"AlexNet, ZFNet, VGG, InceptionNets, ResNets, DenseNets. CNNs for Recognition, Verification, Detection, Segmentation: CNNs for Recognition and Verification (Siamese Networks, Triplet Loss, Ranking Loss)",Topic 14,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,CNNs for Detection,Topic 15,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"R-CNN, Fast R-CNN, YOLO",Topic 16,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,CNNs for Segmentation,Topic 17,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"FCN, SegNet, U-Net, Mask-RCNN. Recurrent Neural Networks (RNNs): Review of RNNs",Topic 18,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,CNN+ RNN Models for Video Understanding,Topic 19,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Spatio-temporal Models, Action/Activity Recognition. Attention Models: Introduction to Attention Models in Vision",Topic 20,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Vision and Language,Topic 21,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Image Captioning, Visual QA, Visual Dialog",Topic 22,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Spatial Transformers,Topic 23,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Transformer Networks Deep Generative Models,Topic 24,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"Review of (Popular) Deep Generative Models: GANs, VAEs",Topic 25,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Other Generative Models,Topic 26,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,"PixelRNNs, NADE, Normalizing Flows, etc. Variants and Applications of Generative Models in Vision: Applications: Image Editing, lnpainting, Superresolution, Variants: CycleGANs, Progressive GANs, StackGANs, Pix2Pix, etc. Recent Trends: Zero-shot, One-shot, Few-shot Learning",Topic 27,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Self-supervised Learning,Topic 28,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL506,Reinforcement Learning in Vision.,Topic 29,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL507,Module 1,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL507,"Introduction to Brain Connectivity : Brain structure vs. function, Types of connectivity: Structural, functional, and effective Relevance in neuropsychiatric disorders (e.g., MDD, ADHD, etc.). Module 2: Neuroimaging Fundamentals : Overview of Neuroimaging modalities such fMRI, EEG, MEG, fNIRS, PET etc. Vascular System of the brain, Coupling of Blood flow and Neuronal activity, BOLD fMRI signal and its correlation with Neuronal signal, Linearity of Hemodynamic response. Module 3: Preprocessing of fMRI: Preprocessing pipeline (motion correction, registration, filtering), Atlases: AAL, Schaefer, Brainnetome, Experimental Design. Module 4: Experimental designs : Block design, Event-related design, Mixed designs (hybrid of block and event-related), Stimulus and Task Design, Experimental Conditions, Data Acquisition Considerations. Module 5: Regression Analysis: Use of general linear model, Modeling of Neuronal activity. Intersubject analyses. Data exploration approaches such as PCA, ICA and Partial least squares. Module 6: Functional connectivity FC matrices: construction and interpretation, Static vs. dynamic connectivity, Time-varying connectivity, Clustering and state-based analysis. Module 7: Network Science for Connectomics: Graph theory fundamentals (nodes, edges, centrality, modularity), Brain network metrics (small-worldness, efficiency, hubs), Community detection (Louvain, Infomap). Module 8: Advanced Topics: Deep learning for FC, Individual fingerprinting & functional gradients, Dynamic Mode Decomposition (DMD), Brain Stimulation and neurofeedback and its effect in Brain Functional Connectivity.",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Python Basics - Operators, Logic, Lists, Functions",Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Python File Handling – File Handling, Intermediate Python – Dictionary, Tuples, Sets, Comprehensions, Recursion",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Coding Environment and Software Management – Package Management, IDE, Git. Object Oriented Python – Classes and Objects, Containers, Inheritance",Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,Programming for Data Storage and Retrieval,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"SQL, MongoDB, ElasticSearch",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Data Scrapping – Crawling using API, Scraping HTML/CSS, Legality",Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Data Visualization and Dimensionality Reduction – Histograms, Plots (matplotlib, seaborn, and plotly), Dimensionality Reduction and T-SNE",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Programming for Graph Analysis – NetworkX, Gephi and Neo4J",Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,LLMs and Co- pilots for Coding,Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL515,"Big Data handling – Map-Reduce, Hadoop.",Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL601,Document Indexing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL601,"Indexing schemes, Storage and Index Compression. Retrieval Models: Boolean Retrieval, Tolerant Retrieval, Vector Space Retrieval. Performance Evaluation: MAP, F1score, AUC-ROC, NDCG. Probabilistic IR and Language Modelling: Probabilistic Ranking Principle, Binary Independence Model, BM25, Language Model based IR. Relevance Feedback & Query Expansion: Rocchio relevance feedback, Pseudo Relevance Feedback, Wordnet based Query Expansion, Co-occurrence based query expansion. Text Classification & Clustering: Naive Bayes, Rocchio Classification, KNN, K means clustering, Agglomerative Clustering. Web Information Retrieval: PageRank, HITS, Web crawling. Neural IR: Neural Retrieval Models, Learning to rank. Advanced Topics: Question answering, Recommender Systems, Explainability in IR, Bias in IR, Multilingual IR.",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL602,Review of digital signal processing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL602,"Discrete-time signals and systems, transform representation of signals and systems, auditory models, lossless tube models fundamentals of digital filters, sampling. Fundamentals of human hearing and speech perception, Speech production, short-time Fourier transform, acoustic phonetics, Anatomy and functions of the ear, the perception of sound, auditory models, lossless tube models. Time-domain and Frequency-domain methods for speech processing Short-time analysis (energy, magnitude, zero-crossing rate, autocorrelation), Discrete-time Fourier analysis, short-time Fourier analysis, spectrograms, Overlap-add method of synthesis, filter-bank summation method of synthesis. Cepstrum and homomorphic speech processing Homomorphic analysis, computing the short time cepstrum and the complex cepstrum, cepstrum analysis of all-pole models, cepstrum distance measures. Linear predictive analysis of speech Basic ideas, gain computation, frequency-domain interpretation, solving LPC equations, the prediction error signal. representations of LP. Algorithms for estimating speech parameters Median smoothing, speech-background discrimination, pitch period estimation, formant estimation. Applications: speech recognition, speech enhancement, speaker recognition, Hidden Markov models for speech recognition, statistical methods for speech enhancement, factor analysis for speaker recognition.",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL604,Introductory Topics,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL604,"Introduction to Internet of Things (loT) - Edge computing paradigms-Introduction to Machine Learning- Introduction to Neural Networks. Data management: Data Privacy, Scalability. Predictive analysis to support edge application deployment. Image Classification: Applications - Convolutional Neural Networks. Time Series Analysis: Applications - Model Training. Audio Classification: Applications - MFCC- Model Training. Optimization: Energy Optimization - Latency Optimization - Memory Optimization. Debugging. Privacy, Security and Deployment. Integrating cloud, loT, edge infrastructures: System Modeling and Research Challenges in federating edge resources.",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL605,Introduction to Natural Language Processing,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL605,"Language and Types of Language, Phonetics, Phonology, Morphology, Syntax, Semantics, Pragmatics, Discourse Analysis, WordNet, Tokens, Types, BPE, tf-idf, CBOW, Gram-based model, Similarities, Conditional Generation, Document Level Analysis. Introduction to Deep Learning: Discriminative and Generative models, Models with Latent Random Variables, Teacher forcing, Encoder-decoder models, Attention Mechanisms-Local, Global, Soft, Chunk, Self and Multi-head, ELMo, BERT, BART, GPT, Advanced Search, Adversarial Methods. Handling Low Resource: Data Augmentations, Fine-tuning, Transfer Learning, Meta Learning, Zero- Shot Learning, Multi-task, Multi-domain and Multi-lingual Learning, Prompting, Bias and Fairness. Applications of NLP: Opinion Mining, Sequence Labelling, Machine Translation- Inter-lingua, Statistical and Neural, Speech Recognition and Synthesis, Knowledge Base and Reasoning.",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL606,Privacy of data-Differentially Private ML. Federated learning Convergence Analysis of Federated Learning Algorithms. Biases and Fairness,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL606,Fair representation learning-fairness through input manipulation-Fair NLP-Fairness in vision representations-Fair causal reasoning. Interpretability and transparency: feature interaction for interpretability-Example and visualization-based methods- interpreting deep neural networks.,Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,Module 1 RL Foundations & Dynamic Programming - Theory,Topic 1,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,"Agent-environment-reward framework, Markov Decision Processes: returns, value functions and Bellman equations: policy evaluation, policy improvement, policy iteration and value iteration. Lab: Build a GridWorld/FrozenLake MDP",Topic 2,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,implement policy iteration and value iteration,Topic 3,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,visualise value functions and optimal policy. Module 2 Monte Carlo & Temporal Difference Methods - Theory,Topic 4,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,"Monte Carlo prediction and control- on-policy vs off-policy learning (brief importance sampling): TD(O), SARSA, Q-learning. Lab: Tabular MC control, SARSA and Q-learning on FrozenLake/Taxi/CliffWalking",Topic 5,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,compare on-policy vs off-policy behaviour. Module 3 DeepRL,Topic 6,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,"Value-Based & Policy-Gradient Foundations - Theory: Function approximation, neural-network value functions: Deep Q-Networks: experience replay and target networks, policy- gradient theorem - REINFORCE. Lab: DQN on CartPole to LunarLander (replay buffer + target net)",Topic 7,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,REINFORCE on CartPole. Module 4 Actor-Critic & Advanced Deep RL - Theory,Topic 8,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,"Advantage Actor-Critic (A2C): deterministic policy gradients and DDPG - TD3 - Soft Actor-Critic and entropy regularization, exploration strategies (ε- greedy, entropy-based). Lah: A2C on a discrete task",Topic 9,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,"SAC or TD3 on Pendulum I continuous control (Stable-Baselines3). Module 5 Model-Based, Multi-Agent, Exploration & Safe RL - Theory",Topic 10,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,Environment-dynamics modeling and planning (Dyna-Q) - cooperative vs competitive MARL: MADDPG and QMIX (overview) - curiosity- driven exploration - meta-RL and transfer (brief) - safe/constrained RL. Lab: Dyna-Q planning,Topic 11,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,one multi-agent or curiosity-driven task (PettingZoo or exploration-bonus agent). Module 6 Advanced RL,Topic 12,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,"PPO, DPO & RLHF - Theory: Trust regions and Proximal Policy Optimization - preference-based RL-Reinforcement Learning from Human Feedback: reward modeling and the RLHF pipeline- Direct Preference Optimization - alignment of large models. Lab: PPO (from scratch or SB3) on LunarLander/custom env",Topic 13,Course_of_Study.pdf,2026-11-10,official_pdf
+DSL608,mini RLHF/DPO pipeline on a small language model using HuggingFace TRL with a tiny preference dataset. Courses offered in the Discipline of Electric Vehicle Technology,Topic 14,Course_of_Study.pdf,2026-11-10,official_pdf
