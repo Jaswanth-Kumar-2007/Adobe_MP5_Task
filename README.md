@@ -144,14 +144,14 @@ Latest checked-in pipeline report metrics:
 | At least 15 courses | **PASS** | 25 normalized courses in `reports/data_quality_report.md`. |
 | Course metadata completeness | **PARTIAL** | Required columns exist, but normalized syllabus is present for 24/25 courses, objectives are empty, and semester/type/mode fields are incomplete. |
 | Academic rules | **PARTIAL** | 134 rule candidates; review files identify records needing human inspection. |
-| At least 30 open learning resources | **PARTIAL** | 192 manual rows exist, but automatic discovery is disabled and required licence/mapping completeness is not met. |
+| At least 30 open learning resources | **PARTIAL** | 192 manual rows exist, but automatic discovery is disabled and licence verification and topic mappings are incomplete. |
 | Normalization | **PASS** | `pipeline/normalize.py` normalizes fields and removes only unambiguous lower-quality duplicate course records. |
-| Validation | **PARTIAL** | Structural, duplicate, credit, reference, provenance, and prerequisite checks exist; prerequisite-cycle detection and completeness percentages do not. |
+| Validation | **PARTIAL** | Structural, duplicate, credit, reference, provenance, and prerequisite checks exist; prerequisite-cycle detection remains incomplete. |
 | Relationships | **PASS** | Course relationships are written to `data/processed/relationships/course_relationships.json`. |
 | Chunking | **PARTIAL** | 669 record-based chunks are generated; the implementation does not split text into token or semantic windows. |
 | Export | **PASS** | JSON, JSONL, and chunk JSONL outputs are generated under `output/`. |
 | No embeddings/LLM API calls | **PASS** | The normal Python pipeline stops before embedding. |
-| Data-quality report | **PARTIAL** | Counts, nested review/evidence files, field-completeness percentages, and six warnings are reported; semantic verification remains manual. |
+| Data-quality report | **PARTIAL** | Counts, field-completeness percentages, nested review/evidence files, and six warnings are reported; semantic verification remains manual. |
 | `SOURCES.md` | **PASS** | Source and extraction-output documentation is present. |
 | `IDEAS.md` | **PASS** | Future Knowledge Buddy use cases and boundaries are documented. |
 

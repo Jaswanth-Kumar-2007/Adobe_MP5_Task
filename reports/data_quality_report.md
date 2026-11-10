@@ -1,6 +1,6 @@
 # DSAI Knowledge Base — Data Quality Report
 
-- Generated: 2026-11-10T19:42:27+05:30
+- Generated: 2026-11-10T19:46:46+05:30
 - Input directory: `data/extracted/`
 - Original documents are handled by the extraction stage.
 - `data/manual/` is not used by this processing pipeline.
